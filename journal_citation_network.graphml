@@ -1,0 +1,3339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Pattern Recognition" />
+    <node id="IEEE Transactions on Pattern Analysis and Machine Intelligence" />
+    <node id="BMC Bioinformatics" />
+    <node id="Bioinformatics" />
+    <node id="IEEE Transactions on Communications" />
+    <node id="IEEE Transactions on Information Theory" />
+    <node id="arXiv: Information Theory" />
+    <node id="IEEE Transactions on Signal Processing" />
+    <node id="IEEE Transactions on Image Processing" />
+    <node id="Remote Sensing" />
+    <node id="IEEE Transactions on Geoscience and Remote Sensing" />
+    <node id="Signal Processing" />
+    <node id="IEEE Transactions on Wireless Communications" />
+    <node id="Automatica" />
+    <node id="IEEE Transactions on Automatic Control" />
+    <node id="Neurocomputing" />
+    <node id="IEEE Transactions on Neural Networks" />
+    <node id="Nucleic Acids Research" />
+    <node id="IEEE Transactions on Vehicular Technology" />
+    <node id="IEEE Journal on Selected Areas in Communications" />
+    <node id="Pattern Recognition Letters" />
+    <node id="European Journal of Operational Research" />
+    <node id="Operations Research" />
+    <node id="IEEE Geoscience and Remote Sensing Letters" />
+    <node id="Computer Vision and Image Understanding" />
+    <node id="arXiv: Computer Vision and Pattern Recognition" />
+    <node id="International Journal of Computer Vision" />
+    <node id="IEEE Transactions on Acoustics, Speech, and Signal Processing" />
+    <node id="Image and Vision Computing" />
+    <node id="Computers &amp; Industrial Engineering" />
+    <node id="Computers &amp; Operations Research" />
+    <node id="Discrete Mathematics" />
+    <node id="Journal of Combinatorial Theory" />
+    <node id="Scientometrics" />
+    <node id="Journal of the Association for Information Science and Technology" />
+    <node id="Expert Systems With Applications" />
+    <node id="Neural Networks" />
+    <node id="Multimedia Tools and Applications" />
+    <node id="Journal of The Franklin Institute-engineering and Applied Mathematics" />
+    <node id="International Journal of Systems Science" />
+    <node id="Information Sciences" />
+    <node id="Fuzzy Sets and Systems" />
+    <node id="Medical Image Analysis" />
+    <node id="IEEE Transactions on Medical Imaging" />
+    <node id="NeuroImage" />
+    <node id="Journal of Cognitive Neuroscience" />
+    <node id="IEEE Signal Processing Letters" />
+    <node id="Information &amp; Management" />
+    <node id="Management Information Systems Quarterly" />
+    <node id="International Journal of Control" />
+    <node id="IEEE Communications Letters" />
+    <node id="Journal of Systems and Software" />
+    <node id="IEEE Transactions on Software Engineering" />
+    <node id="Journal of Informetrics" />
+    <node id="PLOS Computational Biology" />
+    <node id="Discrete Applied Mathematics" />
+    <node id="Computers in Human Behavior" />
+    <node id="Cyberpsychology, Behavior, and Social Networking" />
+    <node id="Theoretical Computer Science" />
+    <node id="Journal of the ACM" />
+    <node id="IEEE Transactions on Circuits and Systems for Video Technology" />
+    <node id="Applied Soft Computing" />
+    <node id="Wireless Personal Communications" />
+    <node id="Neural Computation" />
+    <node id="Systems &amp; Control Letters" />
+    <node id="Journal of Computational Physics" />
+    <node id="SIAM Journal on Scientific Computing" />
+    <node id="Journal of Graph Theory" />
+    <node id="EURASIP Journal on Advances in Signal Processing" />
+    <node id="Annals of Operations Research" />
+    <node id="Briefings in Bioinformatics" />
+    <node id="IEEE Transactions on Fuzzy Systems" />
+    <node id="Computer Networks" />
+    <node id="IEEE ACM Transactions on Networking" />
+    <node id="Database" />
+    <node id="Digital Signal Processing" />
+    <node id="Designs, Codes and Cryptography" />
+    <node id="IEEE Transactions on Industrial Informatics" />
+    <node id="IEEE Transactions on Industrial Electronics" />
+    <node id="IEEE Transactions on Parallel and Distributed Systems" />
+    <node id="IEEE Transactions on Computers" />
+    <node id="IEEE Transactions on Evolutionary Computation" />
+    <node id="Management Science" />
+    <node id="Journal of Management Information Systems" />
+    <node id="Journal of Visual Communication and Image Representation" />
+    <node id="Information &amp; Software Technology" />
+    <node id="Siam Journal on Optimization" />
+    <node id="Mathematical Programming" />
+    <node id="Journal of Intelligent and Fuzzy Systems" />
+    <node id="Information &amp; Computation" />
+    <node id="Computer Communications" />
+    <node id="Knowledge Based Systems" />
+    <node id="IEEE Transactions on Audio, Speech, and Language Processing" />
+    <node id="IEEE Transactions on Speech and Audio Processing" />
+    <node id="Computer Graphics Forum" />
+    <node id="IEEE Transactions on Visualization and Computer Graphics" />
+    <node id="Journal of the Operational Research Society" />
+    <node id="Journal of Computer and System Sciences" />
+    <node id="IEEE Transactions on Very Large Scale Integration Systems" />
+    <node id="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems" />
+    <node id="IEEE Communications Magazine" />
+    <node id="Signal Processing-image Communication" />
+    <node id="Eurasip Journal on Wireless Communications and Networking" />
+    <node id="Iet Communications" />
+    <node id="IEEE/ACM Transactions on Computational Biology and Bioinformatics" />
+    <node id="Information Processing Letters" />
+    <node id="IEEE Transactions on Control Systems and Technology" />
+    <node id="arXiv: Learning" />
+    <node id="Journal of Machine Learning Research" />
+    <node id="BMC Systems Biology" />
+    <node id="Journal of Electronic Imaging" />
+    <node id="Computational Optimization and Applications" />
+    <node id="IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing" />
+    <node id="Transportation Science" />
+    <node id="Computers &amp; Mathematics With Applications" />
+    <node id="Applied Mathematics and Computation" />
+    <node id="International Journal of Pattern Recognition and Artificial Intelligence" />
+    <node id="Information Processing and Management" />
+    <node id="Electronic Notes in Theoretical Computer Science" />
+    <node id="Sensors" />
+    <node id="IEEE Access" />
+    <node id="Lecture Notes in Computer Science" />
+    <node id="European Journal of Information Systems" />
+    <node id="Journal of Parallel and Distributed Computing" />
+    <node id="Neural Computing and Applications" />
+    <node id="Journal of Chemical Information and Modeling" />
+    <node id="Journal of Computational Chemistry" />
+    <node id="IEEE Transactions on Multimedia" />
+    <node id="Computers in Education" />
+    <node id="Communications of The ACM" />
+    <node id="International Journal of Applied Earth Observation and Geoinformation" />
+    <node id="IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences" />
+    <node id="Journal of Global Optimization" />
+    <node id="IEEE Transactions on Aerospace and Electronic Systems" />
+    <node id="Journal of Scientific Computing" />
+    <node id="SIAM Journal on Numerical Analysis" />
+    <node id="Graphs and Combinatorics" />
+    <node id="Mathematics of Operations Research" />
+    <node id="Information Systems Research" />
+    <node id="Journal of Biomedical Informatics" />
+    <node id="Journal of the American Medical Informatics Association" />
+    <node id="International Journal of Medical Informatics" />
+    <node id="Journal of Computational and Applied Mathematics" />
+    <node id="Communications of The Ais" />
+    <node id="Brain" />
+    <node id="European Journal of Combinatorics" />
+    <node id="Journal of Mathematical Imaging and Vision" />
+    <node id="IEEE Transactions on Systems, Man, and Cybernetics" />
+    <node id="ACM Transactions on Graphics" />
+    <node id="Proceedings of SPIE" />
+    <node id="Journal of Chemical Information and Computer Sciences" />
+    <node id="IEEE Transactions on Robotics" />
+    <node id="The International Journal of Robotics Research" />
+    <node id="Empirical Software Engineering" />
+    <node id="IEEE Transactions on Biomedical Engineering" />
+    <node id="Journal of Computer-Mediated Communication" />
+    <node id="SIAM Journal on Computing" />
+    <node id="Journal of Documentation" />
+    <node id="Circuits Systems and Signal Processing" />
+    <node id="Electronic Journal of Combinatorics" />
+    <node id="Journal of Artificial Intelligence Research" />
+    <node id="Artificial Intelligence" />
+    <node id="IEEE Transactions on Knowledge and Data Engineering" />
+    <node id="Speech Communication" />
+    <node id="Annals of Pure and Applied Logic" />
+    <node id="Journal of Symbolic Logic" />
+    <node id="Journal of Computational Biology" />
+    <node id="IEEE Transactions on Circuits and Systems" />
+    <node id="IEEE Transactions on Circuits and Systems Ii-express Briefs" />
+    <node id="IEEE Communications Surveys and Tutorials" />
+    <node id="Computer-aided Design" />
+    <node id="Computer Aided Geometric Design" />
+    <node id="International Journal of Information Management" />
+    <node id="Pattern Analysis and Applications" />
+    <node id="Neural Processing Letters" />
+    <node id="ACM Computing Surveys" />
+    <node id="Reliability Engineering &amp; System Safety" />
+    <node id="IEEE Transactions on Reliability" />
+    <node id="International Journal of Approximate Reasoning" />
+    <node id="Wireless Networks" />
+    <node id="Information Systems Journal" />
+    <node id="IEICE Transactions on Communications" />
+    <node id="IEEE Transactions on Mobile Computing" />
+    <node id="IEEE Transactions on Information Forensics and Security" />
+    <node id="Computerized Medical Imaging and Graphics" />
+    <node id="Signal, Image and Video Processing" />
+    <node id="ACM Transactions on Database Systems" />
+    <node id="Software - Practice and Experience" />
+    <node id="Manufacturing &amp; Service Operations Management" />
+    <node id="IEEE Software" />
+    <node id="Entropy" />
+    <node id="Journal of Strategic Information Systems" />
+    <node id="Robotics and Autonomous Systems" />
+    <node id="Journal of the Association for Information Systems" />
+    <node id="IEEE Journal of Solid-state Circuits" />
+    <node id="arXiv: Machine Learning" />
+    <node id="International Journal of Computer Mathematics" />
+    <node id="ACM Transactions on Design Automation of Electronic Systems" />
+    <node id="Optimization Methods &amp; Software" />
+    <node id="Machine Learning" />
+    <node id="Journal of Computer-aided Molecular Design" />
+    <node id="Educational Technology &amp; Society" />
+    <node id="Integration" />
+    <node id="Finite Fields and Their Applications" />
+    <node id="Journal of Information Technology" />
+    <node id="Algorithmica" />
+    <node id="Journal of Applied Mathematics" />
+    <node id="Applicable Algebra in Engineering, Communication and Computing" />
+    <node id="IEEE Computer Graphics and Applications" />
+    <node id="IEEE Transactions on Consumer Electronics" />
+    <node id="Informs Journal on Computing" />
+    <node id="Biomedical Signal Processing and Control" />
+    <node id="Operations Research Letters" />
+    <node id="Journal of Computational Neuroscience" />
+    <node id="Games and Economic Behavior" />
+    <node id="Journal of Economic Theory" />
+    <node id="Journal of Bioinformatics and Computational Biology" />
+    <node id="Annals of Mathematics and Artificial Intelligence" />
+    <node id="IEEE Journal of Selected Topics in Signal Processing" />
+    <node id="Fundamenta Informaticae" />
+    <node id="The Journal of Supercomputing" />
+    <node id="International Transactions in Operational Research" />
+    <node id="Robotica" />
+    <node id="Behaviour &amp; Information Technology" />
+    <node id="Applied Mathematics Letters" />
+    <node id="arXiv: Systems and Control" />
+    <node id="IEICE Transactions on Information and Systems" />
+    <node id="Siam Journal on Control and Optimization" />
+    <node id="Computers &amp; Graphics" />
+    <node id="International Journal of Communication Systems" />
+    <node id="European Journal of Control" />
+    <node id="Information Systems" />
+    <node id="IFAC Proceedings Volumes" />
+    <node id="IEEE Transactions on Electronic Computers" />
+    <node id="Journal of Optimization Theory and Applications" />
+    <node id="The Visual Computer" />
+    <node id="Journal of Information Science" />
+    <node id="Networks" />
+    <node id="IEEE Wireless Communications" />
+    <node id="Theory of Computing Systems \/ Mathematical Systems Theory" />
+    <node id="BMC Medical Informatics and Decision Making" />
+    <node id="arXiv: Artificial Intelligence" />
+    <node id="Computer Physics Communications" />
+    <node id="Electronic Notes in Discrete Mathematics" />
+    <node id="Computational Biology and Chemistry" />
+    <node id="IEEE Transactions on Instrumentation and Measurement" />
+    <node id="International Journal of Machine Learning and Cybernetics" />
+    <node id="IEEE Wireless Communications Letters" />
+    <node id="Combinatorica" />
+    <node id="Interactive Learning Environments" />
+    <node id="Journal of Electronic Testing" />
+    <node id="Frontiers in Computational Neuroscience" />
+    <node id="Queueing Systems" />
+    <node id="Swarm and evolutionary computation" />
+    <node id="IACR Cryptology ePrint Archive" />
+    <node id="Journal of Cryptology" />
+    <node id="ACM Sigmis Database" />
+    <node id="Engineering Applications of Artificial Intelligence" />
+    <node id="Acta Informatica" />
+    <node id="International Journal of Foundations of Computer Science" />
+    <node id="Autonomous Robots" />
+    <node id="Computer Methods and Programs in Biomedicine" />
+    <node id="International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems" />
+    <node id="Numerische Mathematik" />
+    <node id="ACM Transactions on Software Engineering and Methodology" />
+    <node id="Telecommunication Systems" />
+    <node id="Journal of Computer Assisted Learning" />
+    <node id="Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing" />
+    <node id="Mathematical Structures in Computer Science" />
+    <node id="Mathematics of Computation" />
+    <node id="Advances in Mathematics of Communications" />
+    <node id="British Journal of Educational Technology" />
+    <node id="International Journal of Human-computer Studies \/ International Journal of Man-machine Studies" />
+    <node id="Science in China Series F: Information Sciences" />
+    <node id="Frontiers in Neuroinformatics" />
+    <node id="Computers in Biology and Medicine" />
+    <node id="arXiv: Computation and Language" />
+    <node id="Computational Linguistics" />
+    <node id="European Transactions on Telecommunications" />
+    <node id="Industrial Management and Data Systems" />
+    <node id="Biological Cybernetics" />
+    <node id="Journal of Knowledge Management" />
+    <node id="ACM Sigsoft Software Engineering Notes" />
+    <node id="arXiv: Logic in Computer Science" />
+    <node id="Journal of Algorithms" />
+    <node id="IEEE Computer" />
+    <node id="Computational Geometry: Theory and Applications" />
+    <node id="Discrete and Computational Geometry" />
+    <node id="IEEE Transactions on Intelligent Transportation Systems" />
+    <node id="ISPRS international journal of geo-information" />
+    <node id="International Journal of Geographical Information Science" />
+    <node id="Future Generation Computer Systems" />
+    <node id="Organization Science" />
+    <node id="International Journal of Software Engineering and Knowledge Engineering" />
+    <node id="Education and Information Technologies" />
+    <node id="Archive for Mathematical Logic" />
+    <node id="Numerical Linear Algebra With Applications" />
+    <node id="arXiv: Networking and Internet Architecture" />
+    <node id="Microprocessors and Microsystems" />
+    <node id="Medical &amp; Biological Engineering &amp; Computing" />
+    <node id="Computer Speech &amp; Language" />
+    <node id="SIAM Journal on Discrete Mathematics" />
+    <node id="Journal of Network and Computer Applications" />
+    <node id="Iet Signal Processing" />
+    <node id="arXiv: Data Structures and Algorithms" />
+    <node id="Information Systems Frontiers" />
+    <node id="Journal of Systems Architecture" />
+    <node id="Iet Computer Vision" />
+    <node id="ACM Transactions on Programming Languages and Systems" />
+    <node id="Journal of Scheduling" />
+    <node id="Journal of Intelligent Manufacturing" />
+    <node id="Advanced Robotics" />
+    <node id="Software Testing, Verification &amp; Reliability" />
+    <node id="Numerical Algorithms" />
+    <node id="Photonic Network Communications" />
+    <node id="Telematics and Informatics" />
+    <node id="International Journal of Information Technology and Decision Making" />
+    <node id="Siam Journal on Imaging Sciences" />
+    <node id="Information Technology &amp; People" />
+    <node id="International Journal on Document Analysis and Recognition" />
+    <node id="Mathematical Logic Quarterly" />
+    <node id="Wirtschaftsinformatik und Angewandte Informatik" />
+    <node id="Transactions in Gis" />
+    <node id="Neuroinformatics" />
+    <node id="Journal of Software" />
+    <node id="Journal of Computers" />
+    <node id="Theoretical Informatics and Applications" />
+    <node id="arXiv: Software Engineering" />
+    <node id="Mathematical and Computer Modelling" />
+    <node id="Iet Image Processing" />
+    <node id="Asia-Pacific Journal of Operational Research" />
+    <node id="Computers in Industry" />
+    <node id="Combinatorics, Probability &amp; Computing" />
+    <edge source="Pattern Recognition" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">19930</data>
+    </edge>
+    <edge source="Pattern Recognition" target="IEEE Transactions on Image Processing">
+      <data key="d0">4740</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Pattern Recognition Letters">
+      <data key="d0">4333</data>
+    </edge>
+    <edge source="Pattern Recognition" target="International Journal of Computer Vision">
+      <data key="d0">3189</data>
+    </edge>
+    <edge source="Pattern Recognition" target="IEEE Transactions on Neural Networks">
+      <data key="d0">2031</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Journal of Machine Learning Research">
+      <data key="d0">1895</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Image and Vision Computing">
+      <data key="d0">1664</data>
+    </edge>
+    <edge source="Pattern Recognition" target="IEEE Transactions on Computers">
+      <data key="d0">1436</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Computer Vision and Image Understanding">
+      <data key="d0">1416</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Machine Learning">
+      <data key="d0">1283</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing">
+      <data key="d0">1233</data>
+    </edge>
+    <edge source="Pattern Recognition" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">1155</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Neural Computation">
+      <data key="d0">1117</data>
+    </edge>
+    <edge source="Pattern Recognition" target="IEEE Transactions on Information Theory">
+      <data key="d0">1075</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Neurocomputing">
+      <data key="d0">1017</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Communications of The ACM">
+      <data key="d0">969</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="International Journal of Computer Vision">
+      <data key="d0">5573</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="Pattern Recognition">
+      <data key="d0">3040</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="IEEE Transactions on Image Processing">
+      <data key="d0">2142</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="Computer Vision and Image Understanding">
+      <data key="d0">1367</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="Journal of Machine Learning Research">
+      <data key="d0">1313</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="Artificial Intelligence">
+      <data key="d0">1252</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="IEEE Transactions on Computers">
+      <data key="d0">1203</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="Pattern Recognition Letters">
+      <data key="d0">1142</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="Image and Vision Computing">
+      <data key="d0">1139</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing">
+      <data key="d0">1085</data>
+    </edge>
+    <edge source="IEEE Transactions on Pattern Analysis and Machine Intelligence" target="IEEE Transactions on Information Theory">
+      <data key="d0">1072</data>
+    </edge>
+    <edge source="BMC Bioinformatics" target="Bioinformatics">
+      <data key="d0">19562</data>
+    </edge>
+    <edge source="BMC Bioinformatics" target="Nucleic Acids Research">
+      <data key="d0">12967</data>
+    </edge>
+    <edge source="BMC Bioinformatics" target="PLOS Computational Biology">
+      <data key="d0">2059</data>
+    </edge>
+    <edge source="BMC Bioinformatics" target="Journal of Computational Biology">
+      <data key="d0">1827</data>
+    </edge>
+    <edge source="BMC Bioinformatics" target="Briefings in Bioinformatics">
+      <data key="d0">1372</data>
+    </edge>
+    <edge source="Bioinformatics" target="Nucleic Acids Research">
+      <data key="d0">12236</data>
+    </edge>
+    <edge source="Bioinformatics" target="BMC Bioinformatics">
+      <data key="d0">7267</data>
+    </edge>
+    <edge source="Bioinformatics" target="PLOS Computational Biology">
+      <data key="d0">2555</data>
+    </edge>
+    <edge source="Bioinformatics" target="Journal of Computational Biology">
+      <data key="d0">2006</data>
+    </edge>
+    <edge source="Bioinformatics" target="Briefings in Bioinformatics">
+      <data key="d0">1202</data>
+    </edge>
+    <edge source="IEEE Transactions on Communications" target="IEEE Transactions on Information Theory">
+      <data key="d0">19401</data>
+    </edge>
+    <edge source="IEEE Transactions on Communications" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">8745</data>
+    </edge>
+    <edge source="IEEE Transactions on Communications" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">8588</data>
+    </edge>
+    <edge source="IEEE Transactions on Communications" target="IEEE Transactions on Signal Processing">
+      <data key="d0">4803</data>
+    </edge>
+    <edge source="IEEE Transactions on Communications" target="IEEE Communications Letters">
+      <data key="d0">4142</data>
+    </edge>
+    <edge source="IEEE Transactions on Communications" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">2476</data>
+    </edge>
+    <edge source="IEEE Transactions on Communications" target="IEEE Communications Magazine">
+      <data key="d0">1792</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="IEEE Transactions on Communications">
+      <data key="d0">5065</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="IEEE Transactions on Signal Processing">
+      <data key="d0">3350</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">2949</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="Information &amp; Computation">
+      <data key="d0">1926</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="arXiv: Information Theory">
+      <data key="d0">1650</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1528</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="Designs, Codes and Cryptography">
+      <data key="d0">1247</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="Journal of Combinatorial Theory">
+      <data key="d0">1081</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="Discrete Mathematics">
+      <data key="d0">1058</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Theory" target="IEEE Communications Letters">
+      <data key="d0">1048</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Transactions on Information Theory">
+      <data key="d0">16483</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Transactions on Signal Processing">
+      <data key="d0">3604</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">3351</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Transactions on Communications">
+      <data key="d0">3203</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">2221</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Communications Letters">
+      <data key="d0">1463</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Communications Magazine">
+      <data key="d0">1079</data>
+    </edge>
+    <edge source="arXiv: Information Theory" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1017</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Transactions on Information Theory">
+      <data key="d0">14742</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Transactions on Acoustics, Speech, and Signal Processing">
+      <data key="d0">7251</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Transactions on Communications">
+      <data key="d0">6000</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">3883</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">3694</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="Signal Processing">
+      <data key="d0">3425</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Signal Processing Letters">
+      <data key="d0">2206</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Transactions on Image Processing">
+      <data key="d0">2075</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1489</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Communications Letters">
+      <data key="d0">1241</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Journal of Selected Topics in Signal Processing">
+      <data key="d0">1234</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="Automatica">
+      <data key="d0">1053</data>
+    </edge>
+    <edge source="IEEE Transactions on Signal Processing" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1020</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">14668</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="International Journal of Computer Vision">
+      <data key="d0">4386</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">3818</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">3137</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="Pattern Recognition">
+      <data key="d0">2698</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Information Theory">
+      <data key="d0">2552</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">1739</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Geoscience and Remote Sensing">
+      <data key="d0">1434</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="Pattern Recognition Letters">
+      <data key="d0">1178</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Acoustics, Speech, and Signal Processing">
+      <data key="d0">1165</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="IEEE Transactions on Multimedia">
+      <data key="d0">1144</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="Computer Vision and Image Understanding">
+      <data key="d0">1053</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="Image and Vision Computing">
+      <data key="d0">1002</data>
+    </edge>
+    <edge source="IEEE Transactions on Image Processing" target="Signal Processing">
+      <data key="d0">956</data>
+    </edge>
+    <edge source="Remote Sensing" target="IEEE Transactions on Geoscience and Remote Sensing">
+      <data key="d0">14573</data>
+    </edge>
+    <edge source="Remote Sensing" target="IEEE Geoscience and Remote Sensing Letters">
+      <data key="d0">3030</data>
+    </edge>
+    <edge source="Remote Sensing" target="International Journal of Applied Earth Observation and Geoinformation">
+      <data key="d0">2632</data>
+    </edge>
+    <edge source="Remote Sensing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1247</data>
+    </edge>
+    <edge source="Remote Sensing" target="Sensors">
+      <data key="d0">1087</data>
+    </edge>
+    <edge source="IEEE Transactions on Geoscience and Remote Sensing" target="IEEE Geoscience and Remote Sensing Letters">
+      <data key="d0">4917</data>
+    </edge>
+    <edge source="IEEE Transactions on Geoscience and Remote Sensing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2669</data>
+    </edge>
+    <edge source="IEEE Transactions on Geoscience and Remote Sensing" target="IEEE Transactions on Image Processing">
+      <data key="d0">2588</data>
+    </edge>
+    <edge source="IEEE Transactions on Geoscience and Remote Sensing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1284</data>
+    </edge>
+    <edge source="Signal Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">14457</data>
+    </edge>
+    <edge source="Signal Processing" target="IEEE Transactions on Image Processing">
+      <data key="d0">4107</data>
+    </edge>
+    <edge source="Signal Processing" target="IEEE Transactions on Information Theory">
+      <data key="d0">3399</data>
+    </edge>
+    <edge source="Signal Processing" target="IEEE Transactions on Acoustics, Speech, and Signal Processing">
+      <data key="d0">2622</data>
+    </edge>
+    <edge source="Signal Processing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2615</data>
+    </edge>
+    <edge source="Signal Processing" target="IEEE Transactions on Communications">
+      <data key="d0">1770</data>
+    </edge>
+    <edge source="Signal Processing" target="IEEE Signal Processing Letters">
+      <data key="d0">1754</data>
+    </edge>
+    <edge source="Signal Processing" target="Automatica">
+      <data key="d0">1276</data>
+    </edge>
+    <edge source="Signal Processing" target="Pattern Recognition">
+      <data key="d0">1107</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Transactions on Information Theory">
+      <data key="d0">14152</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Transactions on Communications">
+      <data key="d0">13382</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">10434</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Transactions on Signal Processing">
+      <data key="d0">7166</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Communications Letters">
+      <data key="d0">4254</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">3933</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Communications Magazine">
+      <data key="d0">3385</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1981</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Wireless Communications">
+      <data key="d0">1400</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Transactions on Mobile Computing">
+      <data key="d0">1304</data>
+    </edge>
+    <edge source="IEEE Transactions on Wireless Communications" target="IEEE Communications Surveys and Tutorials">
+      <data key="d0">1057</data>
+    </edge>
+    <edge source="Automatica" target="IEEE Transactions on Automatic Control">
+      <data key="d0">13379</data>
+    </edge>
+    <edge source="Automatica" target="Systems &amp; Control Letters">
+      <data key="d0">2274</data>
+    </edge>
+    <edge source="Automatica" target="Siam Journal on Control and Optimization">
+      <data key="d0">1256</data>
+    </edge>
+    <edge source="Automatica" target="IEEE Transactions on Control Systems and Technology">
+      <data key="d0">1226</data>
+    </edge>
+    <edge source="Automatica" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1141</data>
+    </edge>
+    <edge source="IEEE Transactions on Automatic Control" target="Automatica">
+      <data key="d0">10284</data>
+    </edge>
+    <edge source="IEEE Transactions on Automatic Control" target="Systems &amp; Control Letters">
+      <data key="d0">2065</data>
+    </edge>
+    <edge source="IEEE Transactions on Automatic Control" target="Siam Journal on Control and Optimization">
+      <data key="d0">1481</data>
+    </edge>
+    <edge source="IEEE Transactions on Automatic Control" target="IEEE Transactions on Signal Processing">
+      <data key="d0">986</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Neural Networks">
+      <data key="d0">13162</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">10251</data>
+    </edge>
+    <edge source="Neurocomputing" target="Neural Networks">
+      <data key="d0">5667</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Image Processing">
+      <data key="d0">5297</data>
+    </edge>
+    <edge source="Neurocomputing" target="Pattern Recognition">
+      <data key="d0">4847</data>
+    </edge>
+    <edge source="Neurocomputing" target="Automatica">
+      <data key="d0">4648</data>
+    </edge>
+    <edge source="Neurocomputing" target="Neural Computation">
+      <data key="d0">4498</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Automatic Control">
+      <data key="d0">3257</data>
+    </edge>
+    <edge source="Neurocomputing" target="Journal of Machine Learning Research">
+      <data key="d0">3131</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">2980</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Systems, Man, and Cybernetics">
+      <data key="d0">2360</data>
+    </edge>
+    <edge source="Neurocomputing" target="Information Sciences">
+      <data key="d0">2202</data>
+    </edge>
+    <edge source="Neurocomputing" target="Expert Systems With Applications">
+      <data key="d0">2178</data>
+    </edge>
+    <edge source="Neurocomputing" target="International Journal of Computer Vision">
+      <data key="d0">2136</data>
+    </edge>
+    <edge source="Neurocomputing" target="Pattern Recognition Letters">
+      <data key="d0">1937</data>
+    </edge>
+    <edge source="Neurocomputing" target="Applied Mathematics and Computation">
+      <data key="d0">1712</data>
+    </edge>
+    <edge source="Neurocomputing" target="Machine Learning">
+      <data key="d0">1667</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Knowledge and Data Engineering">
+      <data key="d0">1430</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1379</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Industrial Electronics">
+      <data key="d0">1362</data>
+    </edge>
+    <edge source="Neurocomputing" target="Signal Processing">
+      <data key="d0">1149</data>
+    </edge>
+    <edge source="Neurocomputing" target="Fuzzy Sets and Systems">
+      <data key="d0">1089</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">1066</data>
+    </edge>
+    <edge source="Neurocomputing" target="Applied Soft Computing">
+      <data key="d0">1028</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Geoscience and Remote Sensing">
+      <data key="d0">1027</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Multimedia">
+      <data key="d0">1024</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Circuits and Systems">
+      <data key="d0">983</data>
+    </edge>
+    <edge source="Neurocomputing" target="Journal of The Franklin Institute-engineering and Applied Mathematics">
+      <data key="d0">958</data>
+    </edge>
+    <edge source="Neurocomputing" target="IEEE Transactions on Evolutionary Computation">
+      <data key="d0">951</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="Neural Networks">
+      <data key="d0">4139</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="Neural Computation">
+      <data key="d0">3385</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2826</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="Neurocomputing">
+      <data key="d0">1867</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="Automatica">
+      <data key="d0">1827</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="Journal of Machine Learning Research">
+      <data key="d0">1444</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1351</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1192</data>
+    </edge>
+    <edge source="IEEE Transactions on Neural Networks" target="Pattern Recognition">
+      <data key="d0">985</data>
+    </edge>
+    <edge source="Nucleic Acids Research" target="Bioinformatics">
+      <data key="d0">6411</data>
+    </edge>
+    <edge source="Nucleic Acids Research" target="BMC Bioinformatics">
+      <data key="d0">2688</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">10644</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Transactions on Communications">
+      <data key="d0">9023</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">7192</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Transactions on Information Theory">
+      <data key="d0">6427</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Transactions on Signal Processing">
+      <data key="d0">4852</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Communications Letters">
+      <data key="d0">3633</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Communications Magazine">
+      <data key="d0">2645</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Transactions on Mobile Computing">
+      <data key="d0">1618</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1410</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Wireless Communications">
+      <data key="d0">1300</data>
+    </edge>
+    <edge source="IEEE Transactions on Vehicular Technology" target="IEEE Communications Surveys and Tutorials">
+      <data key="d0">1155</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE Transactions on Information Theory">
+      <data key="d0">5919</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE Transactions on Communications">
+      <data key="d0">5806</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">3748</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE ACM Transactions on Networking">
+      <data key="d0">2439</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE Communications Magazine">
+      <data key="d0">1827</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1798</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE Communications Letters">
+      <data key="d0">1085</data>
+    </edge>
+    <edge source="IEEE Journal on Selected Areas in Communications" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1025</data>
+    </edge>
+    <edge source="Pattern Recognition Letters" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">9887</data>
+    </edge>
+    <edge source="Pattern Recognition Letters" target="Pattern Recognition">
+      <data key="d0">5367</data>
+    </edge>
+    <edge source="Pattern Recognition Letters" target="IEEE Transactions on Image Processing">
+      <data key="d0">2388</data>
+    </edge>
+    <edge source="Pattern Recognition Letters" target="International Journal of Computer Vision">
+      <data key="d0">1717</data>
+    </edge>
+    <edge source="Pattern Recognition Letters" target="Image and Vision Computing">
+      <data key="d0">1138</data>
+    </edge>
+    <edge source="Pattern Recognition Letters" target="IEEE Transactions on Neural Networks">
+      <data key="d0">963</data>
+    </edge>
+    <edge source="Pattern Recognition Letters" target="Computer Vision and Image Understanding">
+      <data key="d0">954</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Operations Research">
+      <data key="d0">9660</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Computers &amp; Operations Research">
+      <data key="d0">6973</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Management Science">
+      <data key="d0">3901</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Annals of Operations Research">
+      <data key="d0">3472</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Mathematical Programming">
+      <data key="d0">3121</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Transportation Science">
+      <data key="d0">2984</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Journal of the Operational Research Society">
+      <data key="d0">1715</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Informs Journal on Computing">
+      <data key="d0">1606</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Operations Research Letters">
+      <data key="d0">1587</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Discrete Applied Mathematics">
+      <data key="d0">1427</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Manufacturing &amp; Service Operations Management">
+      <data key="d0">1413</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Networks">
+      <data key="d0">1405</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Mathematics of Operations Research">
+      <data key="d0">1343</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Expert Systems With Applications">
+      <data key="d0">1224</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Computers &amp; Industrial Engineering">
+      <data key="d0">1172</data>
+    </edge>
+    <edge source="European Journal of Operational Research" target="Journal of Global Optimization">
+      <data key="d0">1078</data>
+    </edge>
+    <edge source="Operations Research" target="Management Science">
+      <data key="d0">1611</data>
+    </edge>
+    <edge source="Operations Research" target="Mathematical Programming">
+      <data key="d0">1525</data>
+    </edge>
+    <edge source="Operations Research" target="Mathematics of Operations Research">
+      <data key="d0">1270</data>
+    </edge>
+    <edge source="IEEE Geoscience and Remote Sensing Letters" target="IEEE Transactions on Geoscience and Remote Sensing">
+      <data key="d0">9102</data>
+    </edge>
+    <edge source="Computer Vision and Image Understanding" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">8050</data>
+    </edge>
+    <edge source="Computer Vision and Image Understanding" target="International Journal of Computer Vision">
+      <data key="d0">3363</data>
+    </edge>
+    <edge source="Computer Vision and Image Understanding" target="IEEE Transactions on Image Processing">
+      <data key="d0">1727</data>
+    </edge>
+    <edge source="Computer Vision and Image Understanding" target="Pattern Recognition">
+      <data key="d0">1689</data>
+    </edge>
+    <edge source="Computer Vision and Image Understanding" target="Image and Vision Computing">
+      <data key="d0">1258</data>
+    </edge>
+    <edge source="Computer Vision and Image Understanding" target="Pattern Recognition Letters">
+      <data key="d0">1049</data>
+    </edge>
+    <edge source="arXiv: Computer Vision and Pattern Recognition" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">7679</data>
+    </edge>
+    <edge source="arXiv: Computer Vision and Pattern Recognition" target="International Journal of Computer Vision">
+      <data key="d0">3312</data>
+    </edge>
+    <edge source="arXiv: Computer Vision and Pattern Recognition" target="IEEE Transactions on Image Processing">
+      <data key="d0">3156</data>
+    </edge>
+    <edge source="arXiv: Computer Vision and Pattern Recognition" target="Pattern Recognition">
+      <data key="d0">1482</data>
+    </edge>
+    <edge source="arXiv: Computer Vision and Pattern Recognition" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">1110</data>
+    </edge>
+    <edge source="arXiv: Computer Vision and Pattern Recognition" target="Journal of Machine Learning Research">
+      <data key="d0">1012</data>
+    </edge>
+    <edge source="arXiv: Computer Vision and Pattern Recognition" target="arXiv: Learning">
+      <data key="d0">948</data>
+    </edge>
+    <edge source="International Journal of Computer Vision" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">7384</data>
+    </edge>
+    <edge source="International Journal of Computer Vision" target="IEEE Transactions on Image Processing">
+      <data key="d0">1211</data>
+    </edge>
+    <edge source="Image and Vision Computing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">7226</data>
+    </edge>
+    <edge source="Image and Vision Computing" target="International Journal of Computer Vision">
+      <data key="d0">2267</data>
+    </edge>
+    <edge source="Image and Vision Computing" target="Pattern Recognition">
+      <data key="d0">2049</data>
+    </edge>
+    <edge source="Image and Vision Computing" target="IEEE Transactions on Image Processing">
+      <data key="d0">1694</data>
+    </edge>
+    <edge source="Image and Vision Computing" target="Pattern Recognition Letters">
+      <data key="d0">1030</data>
+    </edge>
+    <edge source="Computers &amp; Industrial Engineering" target="European Journal of Operational Research">
+      <data key="d0">7188</data>
+    </edge>
+    <edge source="Computers &amp; Industrial Engineering" target="Computers &amp; Operations Research">
+      <data key="d0">3346</data>
+    </edge>
+    <edge source="Computers &amp; Industrial Engineering" target="Expert Systems With Applications">
+      <data key="d0">1758</data>
+    </edge>
+    <edge source="Computers &amp; Industrial Engineering" target="Operations Research">
+      <data key="d0">1545</data>
+    </edge>
+    <edge source="Computers &amp; Operations Research" target="European Journal of Operational Research">
+      <data key="d0">7180</data>
+    </edge>
+    <edge source="Computers &amp; Operations Research" target="Operations Research">
+      <data key="d0">4432</data>
+    </edge>
+    <edge source="Computers &amp; Operations Research" target="Transportation Science">
+      <data key="d0">1804</data>
+    </edge>
+    <edge source="Computers &amp; Operations Research" target="Annals of Operations Research">
+      <data key="d0">1718</data>
+    </edge>
+    <edge source="Computers &amp; Operations Research" target="Mathematical Programming">
+      <data key="d0">1605</data>
+    </edge>
+    <edge source="Computers &amp; Operations Research" target="Networks">
+      <data key="d0">1160</data>
+    </edge>
+    <edge source="Computers &amp; Operations Research" target="Informs Journal on Computing">
+      <data key="d0">1129</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="Journal of Combinatorial Theory">
+      <data key="d0">6755</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="Journal of Graph Theory">
+      <data key="d0">4241</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="Discrete Applied Mathematics">
+      <data key="d0">2396</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="IEEE Transactions on Information Theory">
+      <data key="d0">1427</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="European Journal of Combinatorics">
+      <data key="d0">1397</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="Graphs and Combinatorics">
+      <data key="d0">1344</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="Combinatorica">
+      <data key="d0">1315</data>
+    </edge>
+    <edge source="Discrete Mathematics" target="Electronic Journal of Combinatorics">
+      <data key="d0">1163</data>
+    </edge>
+    <edge source="Journal of Combinatorial Theory" target="Discrete Mathematics">
+      <data key="d0">2918</data>
+    </edge>
+    <edge source="Journal of Combinatorial Theory" target="Combinatorica">
+      <data key="d0">1236</data>
+    </edge>
+    <edge source="Journal of Combinatorial Theory" target="Journal of Graph Theory">
+      <data key="d0">1086</data>
+    </edge>
+    <edge source="Journal of Combinatorial Theory" target="European Journal of Combinatorics">
+      <data key="d0">986</data>
+    </edge>
+    <edge source="Scientometrics" target="Journal of the Association for Information Science and Technology">
+      <data key="d0">6082</data>
+    </edge>
+    <edge source="Scientometrics" target="Journal of Informetrics">
+      <data key="d0">2901</data>
+    </edge>
+    <edge source="Scientometrics" target="Information Processing and Management">
+      <data key="d0">1192</data>
+    </edge>
+    <edge source="Journal of the Association for Information Science and Technology" target="Scientometrics">
+      <data key="d0">3704</data>
+    </edge>
+    <edge source="Journal of the Association for Information Science and Technology" target="Information Processing and Management">
+      <data key="d0">2781</data>
+    </edge>
+    <edge source="Journal of the Association for Information Science and Technology" target="Journal of Documentation">
+      <data key="d0">1511</data>
+    </edge>
+    <edge source="Journal of the Association for Information Science and Technology" target="Communications of The ACM">
+      <data key="d0">1048</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="European Journal of Operational Research">
+      <data key="d0">5791</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Information Sciences">
+      <data key="d0">3092</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2677</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Computers &amp; Operations Research">
+      <data key="d0">2589</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Pattern Recognition">
+      <data key="d0">2574</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Fuzzy Sets and Systems">
+      <data key="d0">2364</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="IEEE Transactions on Neural Networks">
+      <data key="d0">2289</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Applied Soft Computing">
+      <data key="d0">1999</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Neurocomputing">
+      <data key="d0">1940</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="IEEE Transactions on Knowledge and Data Engineering">
+      <data key="d0">1916</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Pattern Recognition Letters">
+      <data key="d0">1862</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Knowledge Based Systems">
+      <data key="d0">1722</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Machine Learning">
+      <data key="d0">1624</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="IEEE Transactions on Evolutionary Computation">
+      <data key="d0">1596</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">1553</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Journal of Machine Learning Research">
+      <data key="d0">1350</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Communications of The ACM">
+      <data key="d0">1345</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Computers &amp; Industrial Engineering">
+      <data key="d0">1155</data>
+    </edge>
+    <edge source="Expert Systems With Applications" target="Artificial Intelligence">
+      <data key="d0">949</data>
+    </edge>
+    <edge source="Neural Networks" target="IEEE Transactions on Neural Networks">
+      <data key="d0">4264</data>
+    </edge>
+    <edge source="Neural Networks" target="Neural Computation">
+      <data key="d0">2992</data>
+    </edge>
+    <edge source="Neural Networks" target="Neurocomputing">
+      <data key="d0">1907</data>
+    </edge>
+    <edge source="Neural Networks" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1017</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="IEEE Transactions on Image Processing">
+      <data key="d0">5657</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">5623</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">3320</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="Pattern Recognition">
+      <data key="d0">2591</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="IEEE Transactions on Multimedia">
+      <data key="d0">2443</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="International Journal of Computer Vision">
+      <data key="d0">1796</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="IEEE Transactions on Information Forensics and Security">
+      <data key="d0">1523</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="Pattern Recognition Letters">
+      <data key="d0">1270</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="Signal Processing">
+      <data key="d0">1243</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="Neurocomputing">
+      <data key="d0">1045</data>
+    </edge>
+    <edge source="Multimedia Tools and Applications" target="Communications of The ACM">
+      <data key="d0">959</data>
+    </edge>
+    <edge source="Journal of The Franklin Institute-engineering and Applied Mathematics" target="Automatica">
+      <data key="d0">5655</data>
+    </edge>
+    <edge source="Journal of The Franklin Institute-engineering and Applied Mathematics" target="IEEE Transactions on Automatic Control">
+      <data key="d0">4350</data>
+    </edge>
+    <edge source="Journal of The Franklin Institute-engineering and Applied Mathematics" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">1410</data>
+    </edge>
+    <edge source="Journal of The Franklin Institute-engineering and Applied Mathematics" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1325</data>
+    </edge>
+    <edge source="Journal of The Franklin Institute-engineering and Applied Mathematics" target="IEEE Transactions on Industrial Electronics">
+      <data key="d0">1156</data>
+    </edge>
+    <edge source="Journal of The Franklin Institute-engineering and Applied Mathematics" target="Neurocomputing">
+      <data key="d0">1015</data>
+    </edge>
+    <edge source="Journal of The Franklin Institute-engineering and Applied Mathematics" target="Systems &amp; Control Letters">
+      <data key="d0">968</data>
+    </edge>
+    <edge source="International Journal of Systems Science" target="Automatica">
+      <data key="d0">5328</data>
+    </edge>
+    <edge source="International Journal of Systems Science" target="IEEE Transactions on Automatic Control">
+      <data key="d0">4384</data>
+    </edge>
+    <edge source="International Journal of Systems Science" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">1439</data>
+    </edge>
+    <edge source="International Journal of Systems Science" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1221</data>
+    </edge>
+    <edge source="International Journal of Systems Science" target="European Journal of Operational Research">
+      <data key="d0">970</data>
+    </edge>
+    <edge source="Information Sciences" target="Fuzzy Sets and Systems">
+      <data key="d0">5183</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">3984</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Evolutionary Computation">
+      <data key="d0">2809</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2597</data>
+    </edge>
+    <edge source="Information Sciences" target="Expert Systems With Applications">
+      <data key="d0">2426</data>
+    </edge>
+    <edge source="Information Sciences" target="Pattern Recognition">
+      <data key="d0">2216</data>
+    </edge>
+    <edge source="Information Sciences" target="European Journal of Operational Research">
+      <data key="d0">2144</data>
+    </edge>
+    <edge source="Information Sciences" target="Automatica">
+      <data key="d0">2073</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Knowledge and Data Engineering">
+      <data key="d0">2048</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1990</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Image Processing">
+      <data key="d0">1718</data>
+    </edge>
+    <edge source="Information Sciences" target="Applied Soft Computing">
+      <data key="d0">1599</data>
+    </edge>
+    <edge source="Information Sciences" target="International Journal of Approximate Reasoning">
+      <data key="d0">1543</data>
+    </edge>
+    <edge source="Information Sciences" target="Knowledge Based Systems">
+      <data key="d0">1507</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1496</data>
+    </edge>
+    <edge source="Information Sciences" target="Communications of The ACM">
+      <data key="d0">1447</data>
+    </edge>
+    <edge source="Information Sciences" target="Pattern Recognition Letters">
+      <data key="d0">1290</data>
+    </edge>
+    <edge source="Information Sciences" target="Neurocomputing">
+      <data key="d0">1285</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Information Theory">
+      <data key="d0">1146</data>
+    </edge>
+    <edge source="Information Sciences" target="IEEE Transactions on Computers">
+      <data key="d0">1123</data>
+    </edge>
+    <edge source="Information Sciences" target="Journal of Machine Learning Research">
+      <data key="d0">1062</data>
+    </edge>
+    <edge source="Fuzzy Sets and Systems" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">4135</data>
+    </edge>
+    <edge source="Fuzzy Sets and Systems" target="Information Sciences">
+      <data key="d0">3150</data>
+    </edge>
+    <edge source="Fuzzy Sets and Systems" target="International Journal of Approximate Reasoning">
+      <data key="d0">1133</data>
+    </edge>
+    <edge source="Fuzzy Sets and Systems" target="IEEE Transactions on Neural Networks">
+      <data key="d0">993</data>
+    </edge>
+    <edge source="Medical Image Analysis" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">5169</data>
+    </edge>
+    <edge source="Medical Image Analysis" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1738</data>
+    </edge>
+    <edge source="Medical Image Analysis" target="NeuroImage">
+      <data key="d0">1648</data>
+    </edge>
+    <edge source="IEEE Transactions on Medical Imaging" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2766</data>
+    </edge>
+    <edge source="IEEE Transactions on Medical Imaging" target="Medical Image Analysis">
+      <data key="d0">2716</data>
+    </edge>
+    <edge source="IEEE Transactions on Medical Imaging" target="IEEE Transactions on Image Processing">
+      <data key="d0">1984</data>
+    </edge>
+    <edge source="IEEE Transactions on Medical Imaging" target="NeuroImage">
+      <data key="d0">1498</data>
+    </edge>
+    <edge source="IEEE Transactions on Medical Imaging" target="International Journal of Computer Vision">
+      <data key="d0">1038</data>
+    </edge>
+    <edge source="NeuroImage" target="Journal of Cognitive Neuroscience">
+      <data key="d0">5161</data>
+    </edge>
+    <edge source="NeuroImage" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">4684</data>
+    </edge>
+    <edge source="NeuroImage" target="Medical Image Analysis">
+      <data key="d0">1994</data>
+    </edge>
+    <edge source="NeuroImage" target="PLOS Computational Biology">
+      <data key="d0">1442</data>
+    </edge>
+    <edge source="NeuroImage" target="IEEE Transactions on Biomedical Engineering">
+      <data key="d0">955</data>
+    </edge>
+    <edge source="Journal of Cognitive Neuroscience" target="NeuroImage">
+      <data key="d0">4293</data>
+    </edge>
+    <edge source="IEEE Signal Processing Letters" target="IEEE Transactions on Signal Processing">
+      <data key="d0">5095</data>
+    </edge>
+    <edge source="IEEE Signal Processing Letters" target="IEEE Transactions on Image Processing">
+      <data key="d0">2061</data>
+    </edge>
+    <edge source="IEEE Signal Processing Letters" target="IEEE Transactions on Information Theory">
+      <data key="d0">1957</data>
+    </edge>
+    <edge source="IEEE Signal Processing Letters" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1326</data>
+    </edge>
+    <edge source="Information &amp; Management" target="Management Information Systems Quarterly">
+      <data key="d0">5092</data>
+    </edge>
+    <edge source="Information &amp; Management" target="Journal of Management Information Systems">
+      <data key="d0">1963</data>
+    </edge>
+    <edge source="Information &amp; Management" target="Information Systems Research">
+      <data key="d0">1880</data>
+    </edge>
+    <edge source="Information &amp; Management" target="Communications of The ACM">
+      <data key="d0">1582</data>
+    </edge>
+    <edge source="Management Information Systems Quarterly" target="Information Systems Research">
+      <data key="d0">2153</data>
+    </edge>
+    <edge source="Management Information Systems Quarterly" target="Journal of Management Information Systems">
+      <data key="d0">1236</data>
+    </edge>
+    <edge source="Management Information Systems Quarterly" target="Communications of The ACM">
+      <data key="d0">1118</data>
+    </edge>
+    <edge source="International Journal of Control" target="Automatica">
+      <data key="d0">5015</data>
+    </edge>
+    <edge source="International Journal of Control" target="IEEE Transactions on Automatic Control">
+      <data key="d0">4827</data>
+    </edge>
+    <edge source="International Journal of Control" target="Systems &amp; Control Letters">
+      <data key="d0">1035</data>
+    </edge>
+    <edge source="IEEE Communications Letters" target="IEEE Transactions on Information Theory">
+      <data key="d0">4989</data>
+    </edge>
+    <edge source="IEEE Communications Letters" target="IEEE Transactions on Communications">
+      <data key="d0">4662</data>
+    </edge>
+    <edge source="IEEE Communications Letters" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">3659</data>
+    </edge>
+    <edge source="IEEE Communications Letters" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">2579</data>
+    </edge>
+    <edge source="IEEE Communications Letters" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1783</data>
+    </edge>
+    <edge source="IEEE Communications Letters" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1397</data>
+    </edge>
+    <edge source="IEEE Communications Letters" target="IEEE ACM Transactions on Networking">
+      <data key="d0">982</data>
+    </edge>
+    <edge source="Journal of Systems and Software" target="IEEE Transactions on Software Engineering">
+      <data key="d0">4893</data>
+    </edge>
+    <edge source="Journal of Systems and Software" target="Communications of The ACM">
+      <data key="d0">2061</data>
+    </edge>
+    <edge source="Journal of Systems and Software" target="IEEE Software">
+      <data key="d0">1745</data>
+    </edge>
+    <edge source="Journal of Systems and Software" target="Information &amp; Software Technology">
+      <data key="d0">1380</data>
+    </edge>
+    <edge source="Journal of Systems and Software" target="IEEE Computer">
+      <data key="d0">996</data>
+    </edge>
+    <edge source="IEEE Transactions on Software Engineering" target="Communications of The ACM">
+      <data key="d0">2654</data>
+    </edge>
+    <edge source="IEEE Transactions on Software Engineering" target="IEEE Software">
+      <data key="d0">1186</data>
+    </edge>
+    <edge source="IEEE Transactions on Software Engineering" target="Journal of Systems and Software">
+      <data key="d0">1124</data>
+    </edge>
+    <edge source="Journal of Informetrics" target="Scientometrics">
+      <data key="d0">4867</data>
+    </edge>
+    <edge source="Journal of Informetrics" target="Journal of the Association for Information Science and Technology">
+      <data key="d0">2627</data>
+    </edge>
+    <edge source="PLOS Computational Biology" target="Bioinformatics">
+      <data key="d0">4719</data>
+    </edge>
+    <edge source="PLOS Computational Biology" target="Nucleic Acids Research">
+      <data key="d0">4319</data>
+    </edge>
+    <edge source="PLOS Computational Biology" target="BMC Bioinformatics">
+      <data key="d0">2220</data>
+    </edge>
+    <edge source="PLOS Computational Biology" target="Neural Computation">
+      <data key="d0">1949</data>
+    </edge>
+    <edge source="PLOS Computational Biology" target="NeuroImage">
+      <data key="d0">1069</data>
+    </edge>
+    <edge source="PLOS Computational Biology" target="Journal of Computational Chemistry">
+      <data key="d0">997</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Discrete Mathematics">
+      <data key="d0">4702</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Journal of Combinatorial Theory">
+      <data key="d0">1891</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Theoretical Computer Science">
+      <data key="d0">1770</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Information Processing Letters">
+      <data key="d0">1736</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Journal of Graph Theory">
+      <data key="d0">1574</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Mathematical Programming">
+      <data key="d0">1278</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Networks">
+      <data key="d0">1220</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="Journal of the ACM">
+      <data key="d0">1188</data>
+    </edge>
+    <edge source="Discrete Applied Mathematics" target="SIAM Journal on Discrete Mathematics">
+      <data key="d0">948</data>
+    </edge>
+    <edge source="Computers in Human Behavior" target="Cyberpsychology, Behavior, and Social Networking">
+      <data key="d0">4681</data>
+    </edge>
+    <edge source="Computers in Human Behavior" target="Management Information Systems Quarterly">
+      <data key="d0">3430</data>
+    </edge>
+    <edge source="Computers in Human Behavior" target="Computers in Education">
+      <data key="d0">2690</data>
+    </edge>
+    <edge source="Computers in Human Behavior" target="Journal of Computer-Mediated Communication">
+      <data key="d0">2190</data>
+    </edge>
+    <edge source="Computers in Human Behavior" target="Information &amp; Management">
+      <data key="d0">1925</data>
+    </edge>
+    <edge source="Computers in Human Behavior" target="Information Systems Research">
+      <data key="d0">1506</data>
+    </edge>
+    <edge source="Computers in Human Behavior" target="International Journal of Human-computer Studies \/ International Journal of Man-machine Studies">
+      <data key="d0">1200</data>
+    </edge>
+    <edge source="Cyberpsychology, Behavior, and Social Networking" target="Computers in Human Behavior">
+      <data key="d0">1129</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Journal of the ACM">
+      <data key="d0">4644</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Information &amp; Computation">
+      <data key="d0">3596</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Journal of Computer and System Sciences">
+      <data key="d0">3447</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Information Processing Letters">
+      <data key="d0">3142</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="SIAM Journal on Computing">
+      <data key="d0">2189</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Discrete Applied Mathematics">
+      <data key="d0">2178</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Discrete Mathematics">
+      <data key="d0">1570</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Theory of Computing Systems \/ Mathematical Systems Theory">
+      <data key="d0">1366</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Communications of The ACM">
+      <data key="d0">1289</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Algorithmica">
+      <data key="d0">1279</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Acta Informatica">
+      <data key="d0">1264</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Journal of Algorithms">
+      <data key="d0">1129</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="IEEE Transactions on Computers">
+      <data key="d0">976</data>
+    </edge>
+    <edge source="Theoretical Computer Science" target="Electronic Notes in Theoretical Computer Science">
+      <data key="d0">969</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems for Video Technology" target="IEEE Transactions on Image Processing">
+      <data key="d0">4620</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems for Video Technology" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">3862</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems for Video Technology" target="IEEE Transactions on Multimedia">
+      <data key="d0">1314</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems for Video Technology" target="International Journal of Computer Vision">
+      <data key="d0">1235</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems for Video Technology" target="Signal Processing-image Communication">
+      <data key="d0">1003</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Expert Systems With Applications">
+      <data key="d0">4619</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="IEEE Transactions on Evolutionary Computation">
+      <data key="d0">3934</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Information Sciences">
+      <data key="d0">3722</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="European Journal of Operational Research">
+      <data key="d0">2914</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">2151</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Fuzzy Sets and Systems">
+      <data key="d0">1940</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1800</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Computers &amp; Operations Research">
+      <data key="d0">1605</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Neurocomputing">
+      <data key="d0">1593</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Pattern Recognition">
+      <data key="d0">1345</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1199</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Knowledge Based Systems">
+      <data key="d0">1100</data>
+    </edge>
+    <edge source="Applied Soft Computing" target="Applied Mathematics and Computation">
+      <data key="d0">1036</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">4552</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Transactions on Communications">
+      <data key="d0">4173</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">3476</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Transactions on Information Theory">
+      <data key="d0">2853</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">2439</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Transactions on Signal Processing">
+      <data key="d0">2265</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Communications Letters">
+      <data key="d0">2250</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Communications Magazine">
+      <data key="d0">1907</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Transactions on Mobile Computing">
+      <data key="d0">1268</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="Computer Networks">
+      <data key="d0">1202</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="Computer Communications">
+      <data key="d0">1062</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Wireless Communications">
+      <data key="d0">986</data>
+    </edge>
+    <edge source="Wireless Personal Communications" target="IEEE Communications Surveys and Tutorials">
+      <data key="d0">969</data>
+    </edge>
+    <edge source="Neural Computation" target="Neural Networks">
+      <data key="d0">1798</data>
+    </edge>
+    <edge source="Neural Computation" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1445</data>
+    </edge>
+    <edge source="Neural Computation" target="Journal of Computational Neuroscience">
+      <data key="d0">1003</data>
+    </edge>
+    <edge source="Systems &amp; Control Letters" target="IEEE Transactions on Automatic Control">
+      <data key="d0">4299</data>
+    </edge>
+    <edge source="Systems &amp; Control Letters" target="Automatica">
+      <data key="d0">3417</data>
+    </edge>
+    <edge source="Journal of Computational Physics" target="SIAM Journal on Scientific Computing">
+      <data key="d0">4290</data>
+    </edge>
+    <edge source="Journal of Computational Physics" target="SIAM Journal on Numerical Analysis">
+      <data key="d0">2542</data>
+    </edge>
+    <edge source="Journal of Computational Physics" target="Journal of Scientific Computing">
+      <data key="d0">2182</data>
+    </edge>
+    <edge source="Journal of Computational Physics" target="Mathematics of Computation">
+      <data key="d0">972</data>
+    </edge>
+    <edge source="SIAM Journal on Scientific Computing" target="Journal of Computational Physics">
+      <data key="d0">1222</data>
+    </edge>
+    <edge source="SIAM Journal on Scientific Computing" target="SIAM Journal on Numerical Analysis">
+      <data key="d0">987</data>
+    </edge>
+    <edge source="Journal of Graph Theory" target="Discrete Mathematics">
+      <data key="d0">2155</data>
+    </edge>
+    <edge source="Journal of Graph Theory" target="Journal of Combinatorial Theory">
+      <data key="d0">1942</data>
+    </edge>
+    <edge source="EURASIP Journal on Advances in Signal Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">4220</data>
+    </edge>
+    <edge source="EURASIP Journal on Advances in Signal Processing" target="IEEE Transactions on Information Theory">
+      <data key="d0">2004</data>
+    </edge>
+    <edge source="EURASIP Journal on Advances in Signal Processing" target="IEEE Transactions on Image Processing">
+      <data key="d0">1735</data>
+    </edge>
+    <edge source="EURASIP Journal on Advances in Signal Processing" target="IEEE Transactions on Communications">
+      <data key="d0">1627</data>
+    </edge>
+    <edge source="EURASIP Journal on Advances in Signal Processing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1538</data>
+    </edge>
+    <edge source="EURASIP Journal on Advances in Signal Processing" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1064</data>
+    </edge>
+    <edge source="EURASIP Journal on Advances in Signal Processing" target="Signal Processing">
+      <data key="d0">952</data>
+    </edge>
+    <edge source="Annals of Operations Research" target="European Journal of Operational Research">
+      <data key="d0">4190</data>
+    </edge>
+    <edge source="Annals of Operations Research" target="Operations Research">
+      <data key="d0">2850</data>
+    </edge>
+    <edge source="Annals of Operations Research" target="Mathematical Programming">
+      <data key="d0">1869</data>
+    </edge>
+    <edge source="Annals of Operations Research" target="Computers &amp; Operations Research">
+      <data key="d0">1718</data>
+    </edge>
+    <edge source="Briefings in Bioinformatics" target="Bioinformatics">
+      <data key="d0">4174</data>
+    </edge>
+    <edge source="Briefings in Bioinformatics" target="Nucleic Acids Research">
+      <data key="d0">3255</data>
+    </edge>
+    <edge source="Briefings in Bioinformatics" target="BMC Bioinformatics">
+      <data key="d0">2148</data>
+    </edge>
+    <edge source="IEEE Transactions on Fuzzy Systems" target="Fuzzy Sets and Systems">
+      <data key="d0">3171</data>
+    </edge>
+    <edge source="IEEE Transactions on Fuzzy Systems" target="Information Sciences">
+      <data key="d0">1860</data>
+    </edge>
+    <edge source="IEEE Transactions on Fuzzy Systems" target="Automatica">
+      <data key="d0">1510</data>
+    </edge>
+    <edge source="IEEE Transactions on Fuzzy Systems" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1345</data>
+    </edge>
+    <edge source="Computer Networks" target="IEEE ACM Transactions on Networking">
+      <data key="d0">4094</data>
+    </edge>
+    <edge source="Computer Networks" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">2720</data>
+    </edge>
+    <edge source="Computer Networks" target="IEEE Communications Magazine">
+      <data key="d0">1421</data>
+    </edge>
+    <edge source="Computer Networks" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1055</data>
+    </edge>
+    <edge source="Computer Networks" target="IEEE Transactions on Mobile Computing">
+      <data key="d0">1014</data>
+    </edge>
+    <edge source="Computer Networks" target="Computer Communications">
+      <data key="d0">984</data>
+    </edge>
+    <edge source="IEEE ACM Transactions on Networking" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">3052</data>
+    </edge>
+    <edge source="IEEE ACM Transactions on Networking" target="IEEE Transactions on Information Theory">
+      <data key="d0">1605</data>
+    </edge>
+    <edge source="IEEE ACM Transactions on Networking" target="IEEE Transactions on Communications">
+      <data key="d0">1197</data>
+    </edge>
+    <edge source="Database" target="Nucleic Acids Research">
+      <data key="d0">4030</data>
+    </edge>
+    <edge source="Database" target="Bioinformatics">
+      <data key="d0">1299</data>
+    </edge>
+    <edge source="Database" target="BMC Bioinformatics">
+      <data key="d0">979</data>
+    </edge>
+    <edge source="Digital Signal Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">4014</data>
+    </edge>
+    <edge source="Digital Signal Processing" target="IEEE Transactions on Image Processing">
+      <data key="d0">1419</data>
+    </edge>
+    <edge source="Digital Signal Processing" target="Signal Processing">
+      <data key="d0">1332</data>
+    </edge>
+    <edge source="Designs, Codes and Cryptography" target="IEEE Transactions on Information Theory">
+      <data key="d0">4005</data>
+    </edge>
+    <edge source="Designs, Codes and Cryptography" target="Journal of Combinatorial Theory">
+      <data key="d0">1283</data>
+    </edge>
+    <edge source="Designs, Codes and Cryptography" target="Discrete Mathematics">
+      <data key="d0">1193</data>
+    </edge>
+    <edge source="IEEE Transactions on Industrial Informatics" target="IEEE Transactions on Industrial Electronics">
+      <data key="d0">3955</data>
+    </edge>
+    <edge source="IEEE Transactions on Industrial Electronics" target="Automatica">
+      <data key="d0">1974</data>
+    </edge>
+    <edge source="IEEE Transactions on Industrial Electronics" target="IEEE Transactions on Control Systems and Technology">
+      <data key="d0">1633</data>
+    </edge>
+    <edge source="IEEE Transactions on Industrial Electronics" target="IEEE Transactions on Industrial Informatics">
+      <data key="d0">1619</data>
+    </edge>
+    <edge source="IEEE Transactions on Industrial Electronics" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1428</data>
+    </edge>
+    <edge source="IEEE Transactions on Parallel and Distributed Systems" target="IEEE Transactions on Computers">
+      <data key="d0">3935</data>
+    </edge>
+    <edge source="IEEE Transactions on Parallel and Distributed Systems" target="Journal of Parallel and Distributed Computing">
+      <data key="d0">1515</data>
+    </edge>
+    <edge source="IEEE Transactions on Parallel and Distributed Systems" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1339</data>
+    </edge>
+    <edge source="IEEE Transactions on Parallel and Distributed Systems" target="Communications of The ACM">
+      <data key="d0">1144</data>
+    </edge>
+    <edge source="IEEE Transactions on Computers" target="Communications of The ACM">
+      <data key="d0">1695</data>
+    </edge>
+    <edge source="IEEE Transactions on Computers" target="IEEE Transactions on Parallel and Distributed Systems">
+      <data key="d0">1542</data>
+    </edge>
+    <edge source="IEEE Transactions on Computers" target="IEEE Transactions on Electronic Computers">
+      <data key="d0">1424</data>
+    </edge>
+    <edge source="IEEE Transactions on Computers" target="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems">
+      <data key="d0">1375</data>
+    </edge>
+    <edge source="IEEE Transactions on Computers" target="Journal of the ACM">
+      <data key="d0">1359</data>
+    </edge>
+    <edge source="IEEE Transactions on Computers" target="IEEE Computer">
+      <data key="d0">1114</data>
+    </edge>
+    <edge source="IEEE Transactions on Computers" target="IEEE Transactions on Information Theory">
+      <data key="d0">976</data>
+    </edge>
+    <edge source="Management Science" target="Operations Research">
+      <data key="d0">2360</data>
+    </edge>
+    <edge source="Management Science" target="Manufacturing &amp; Service Operations Management">
+      <data key="d0">1294</data>
+    </edge>
+    <edge source="Journal of Management Information Systems" target="Management Information Systems Quarterly">
+      <data key="d0">3890</data>
+    </edge>
+    <edge source="Journal of Management Information Systems" target="Information Systems Research">
+      <data key="d0">1967</data>
+    </edge>
+    <edge source="Journal of Management Information Systems" target="Communications of The ACM">
+      <data key="d0">1260</data>
+    </edge>
+    <edge source="Journal of Visual Communication and Image Representation" target="IEEE Transactions on Image Processing">
+      <data key="d0">3840</data>
+    </edge>
+    <edge source="Journal of Visual Communication and Image Representation" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">3414</data>
+    </edge>
+    <edge source="Journal of Visual Communication and Image Representation" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">2448</data>
+    </edge>
+    <edge source="Journal of Visual Communication and Image Representation" target="Pattern Recognition">
+      <data key="d0">1340</data>
+    </edge>
+    <edge source="Journal of Visual Communication and Image Representation" target="International Journal of Computer Vision">
+      <data key="d0">1104</data>
+    </edge>
+    <edge source="Information &amp; Software Technology" target="IEEE Transactions on Software Engineering">
+      <data key="d0">3800</data>
+    </edge>
+    <edge source="Information &amp; Software Technology" target="Journal of Systems and Software">
+      <data key="d0">1759</data>
+    </edge>
+    <edge source="Information &amp; Software Technology" target="IEEE Software">
+      <data key="d0">1528</data>
+    </edge>
+    <edge source="Information &amp; Software Technology" target="Communications of The ACM">
+      <data key="d0">1235</data>
+    </edge>
+    <edge source="Information &amp; Software Technology" target="Empirical Software Engineering">
+      <data key="d0">980</data>
+    </edge>
+    <edge source="Siam Journal on Optimization" target="Mathematical Programming">
+      <data key="d0">3667</data>
+    </edge>
+    <edge source="Siam Journal on Optimization" target="Mathematics of Operations Research">
+      <data key="d0">1045</data>
+    </edge>
+    <edge source="Mathematical Programming" target="Siam Journal on Optimization">
+      <data key="d0">2636</data>
+    </edge>
+    <edge source="Mathematical Programming" target="Mathematics of Operations Research">
+      <data key="d0">2516</data>
+    </edge>
+    <edge source="Mathematical Programming" target="Operations Research">
+      <data key="d0">1640</data>
+    </edge>
+    <edge source="Journal of Intelligent and Fuzzy Systems" target="Information Sciences">
+      <data key="d0">3642</data>
+    </edge>
+    <edge source="Journal of Intelligent and Fuzzy Systems" target="Fuzzy Sets and Systems">
+      <data key="d0">3194</data>
+    </edge>
+    <edge source="Journal of Intelligent and Fuzzy Systems" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">2246</data>
+    </edge>
+    <edge source="Journal of Intelligent and Fuzzy Systems" target="Expert Systems With Applications">
+      <data key="d0">2114</data>
+    </edge>
+    <edge source="Journal of Intelligent and Fuzzy Systems" target="European Journal of Operational Research">
+      <data key="d0">1249</data>
+    </edge>
+    <edge source="Journal of Intelligent and Fuzzy Systems" target="Applied Soft Computing">
+      <data key="d0">1248</data>
+    </edge>
+    <edge source="Journal of Intelligent and Fuzzy Systems" target="Knowledge Based Systems">
+      <data key="d0">1229</data>
+    </edge>
+    <edge source="Information &amp; Computation" target="Theoretical Computer Science">
+      <data key="d0">2755</data>
+    </edge>
+    <edge source="Information &amp; Computation" target="Journal of the ACM">
+      <data key="d0">1764</data>
+    </edge>
+    <edge source="Information &amp; Computation" target="Journal of Computer and System Sciences">
+      <data key="d0">1396</data>
+    </edge>
+    <edge source="Computer Communications" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">3574</data>
+    </edge>
+    <edge source="Computer Communications" target="IEEE ACM Transactions on Networking">
+      <data key="d0">3537</data>
+    </edge>
+    <edge source="Computer Communications" target="Computer Networks">
+      <data key="d0">1419</data>
+    </edge>
+    <edge source="Computer Communications" target="IEEE Transactions on Communications">
+      <data key="d0">1247</data>
+    </edge>
+    <edge source="Computer Communications" target="IEEE Communications Magazine">
+      <data key="d0">1106</data>
+    </edge>
+    <edge source="Computer Communications" target="IEEE Transactions on Mobile Computing">
+      <data key="d0">956</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="Information Sciences">
+      <data key="d0">3567</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="Expert Systems With Applications">
+      <data key="d0">2748</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="IEEE Transactions on Knowledge and Data Engineering">
+      <data key="d0">1417</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="European Journal of Operational Research">
+      <data key="d0">1393</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="Pattern Recognition">
+      <data key="d0">1236</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1228</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="Fuzzy Sets and Systems">
+      <data key="d0">1156</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">1054</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="Journal of Machine Learning Research">
+      <data key="d0">961</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="Applied Soft Computing">
+      <data key="d0">958</data>
+    </edge>
+    <edge source="Knowledge Based Systems" target="Neurocomputing">
+      <data key="d0">950</data>
+    </edge>
+    <edge source="IEEE Transactions on Audio, Speech, and Language Processing" target="IEEE Transactions on Speech and Audio Processing">
+      <data key="d0">3564</data>
+    </edge>
+    <edge source="IEEE Transactions on Audio, Speech, and Language Processing" target="Speech Communication">
+      <data key="d0">2048</data>
+    </edge>
+    <edge source="IEEE Transactions on Audio, Speech, and Language Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1791</data>
+    </edge>
+    <edge source="Computer Graphics Forum" target="IEEE Transactions on Visualization and Computer Graphics">
+      <data key="d0">3527</data>
+    </edge>
+    <edge source="Computer Graphics Forum" target="ACM Transactions on Graphics">
+      <data key="d0">2300</data>
+    </edge>
+    <edge source="Computer Graphics Forum" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1075</data>
+    </edge>
+    <edge source="Computer Graphics Forum" target="IEEE Computer Graphics and Applications">
+      <data key="d0">963</data>
+    </edge>
+    <edge source="IEEE Transactions on Visualization and Computer Graphics" target="Computer Graphics Forum">
+      <data key="d0">1935</data>
+    </edge>
+    <edge source="IEEE Transactions on Visualization and Computer Graphics" target="IEEE Computer Graphics and Applications">
+      <data key="d0">1641</data>
+    </edge>
+    <edge source="IEEE Transactions on Visualization and Computer Graphics" target="ACM Transactions on Graphics">
+      <data key="d0">1397</data>
+    </edge>
+    <edge source="IEEE Transactions on Visualization and Computer Graphics" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">969</data>
+    </edge>
+    <edge source="Journal of the Operational Research Society" target="European Journal of Operational Research">
+      <data key="d0">3449</data>
+    </edge>
+    <edge source="Journal of the Operational Research Society" target="Computers &amp; Operations Research">
+      <data key="d0">1087</data>
+    </edge>
+    <edge source="Journal of the Operational Research Society" target="Operations Research">
+      <data key="d0">1071</data>
+    </edge>
+    <edge source="Journal of Computer and System Sciences" target="Journal of the ACM">
+      <data key="d0">1901</data>
+    </edge>
+    <edge source="Journal of Computer and System Sciences" target="Theoretical Computer Science">
+      <data key="d0">1698</data>
+    </edge>
+    <edge source="Journal of Computer and System Sciences" target="Information &amp; Computation">
+      <data key="d0">1084</data>
+    </edge>
+    <edge source="IEEE Transactions on Very Large Scale Integration Systems" target="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems">
+      <data key="d0">3389</data>
+    </edge>
+    <edge source="IEEE Transactions on Very Large Scale Integration Systems" target="IEEE Transactions on Computers">
+      <data key="d0">2039</data>
+    </edge>
+    <edge source="IEEE Transactions on Very Large Scale Integration Systems" target="IEEE Transactions on Circuits and Systems">
+      <data key="d0">992</data>
+    </edge>
+    <edge source="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems" target="IEEE Transactions on Computers">
+      <data key="d0">3119</data>
+    </edge>
+    <edge source="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems" target="IEEE Transactions on Very Large Scale Integration Systems">
+      <data key="d0">1572</data>
+    </edge>
+    <edge source="Signal Processing-image Communication" target="IEEE Transactions on Image Processing">
+      <data key="d0">3317</data>
+    </edge>
+    <edge source="Signal Processing-image Communication" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">2851</data>
+    </edge>
+    <edge source="Signal Processing-image Communication" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1661</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">3238</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Transactions on Information Theory">
+      <data key="d0">2936</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Transactions on Communications">
+      <data key="d0">2662</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">2461</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1654</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1391</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Communications Magazine">
+      <data key="d0">1272</data>
+    </edge>
+    <edge source="Eurasip Journal on Wireless Communications and Networking" target="IEEE Communications Letters">
+      <data key="d0">1178</data>
+    </edge>
+    <edge source="Iet Communications" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">3227</data>
+    </edge>
+    <edge source="Iet Communications" target="IEEE Transactions on Communications">
+      <data key="d0">3221</data>
+    </edge>
+    <edge source="Iet Communications" target="IEEE Transactions on Information Theory">
+      <data key="d0">2879</data>
+    </edge>
+    <edge source="Iet Communications" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">2061</data>
+    </edge>
+    <edge source="Iet Communications" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1611</data>
+    </edge>
+    <edge source="Iet Communications" target="IEEE Communications Letters">
+      <data key="d0">1502</data>
+    </edge>
+    <edge source="Iet Communications" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1398</data>
+    </edge>
+    <edge source="IEEE/ACM Transactions on Computational Biology and Bioinformatics" target="Bioinformatics">
+      <data key="d0">3198</data>
+    </edge>
+    <edge source="IEEE/ACM Transactions on Computational Biology and Bioinformatics" target="BMC Bioinformatics">
+      <data key="d0">1519</data>
+    </edge>
+    <edge source="IEEE/ACM Transactions on Computational Biology and Bioinformatics" target="Nucleic Acids Research">
+      <data key="d0">1136</data>
+    </edge>
+    <edge source="Information Processing Letters" target="Journal of the ACM">
+      <data key="d0">1990</data>
+    </edge>
+    <edge source="Information Processing Letters" target="Theoretical Computer Science">
+      <data key="d0">1828</data>
+    </edge>
+    <edge source="Information Processing Letters" target="Communications of The ACM">
+      <data key="d0">1262</data>
+    </edge>
+    <edge source="Information Processing Letters" target="IEEE Transactions on Computers">
+      <data key="d0">1098</data>
+    </edge>
+    <edge source="Information Processing Letters" target="SIAM Journal on Computing">
+      <data key="d0">1040</data>
+    </edge>
+    <edge source="Information Processing Letters" target="Journal of Computer and System Sciences">
+      <data key="d0">1014</data>
+    </edge>
+    <edge source="Information Processing Letters" target="Discrete Applied Mathematics">
+      <data key="d0">991</data>
+    </edge>
+    <edge source="IEEE Transactions on Control Systems and Technology" target="Automatica">
+      <data key="d0">3137</data>
+    </edge>
+    <edge source="IEEE Transactions on Control Systems and Technology" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1926</data>
+    </edge>
+    <edge source="arXiv: Learning" target="Journal of Machine Learning Research">
+      <data key="d0">3132</data>
+    </edge>
+    <edge source="arXiv: Learning" target="Machine Learning">
+      <data key="d0">1149</data>
+    </edge>
+    <edge source="arXiv: Learning" target="Neural Computation">
+      <data key="d0">1105</data>
+    </edge>
+    <edge source="arXiv: Learning" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1095</data>
+    </edge>
+    <edge source="Journal of Machine Learning Research" target="Machine Learning">
+      <data key="d0">1476</data>
+    </edge>
+    <edge source="Journal of Machine Learning Research" target="Neural Computation">
+      <data key="d0">1065</data>
+    </edge>
+    <edge source="Journal of Machine Learning Research" target="IEEE Transactions on Information Theory">
+      <data key="d0">961</data>
+    </edge>
+    <edge source="BMC Systems Biology" target="Bioinformatics">
+      <data key="d0">3089</data>
+    </edge>
+    <edge source="BMC Systems Biology" target="Nucleic Acids Research">
+      <data key="d0">2604</data>
+    </edge>
+    <edge source="BMC Systems Biology" target="BMC Bioinformatics">
+      <data key="d0">1750</data>
+    </edge>
+    <edge source="BMC Systems Biology" target="PLOS Computational Biology">
+      <data key="d0">1157</data>
+    </edge>
+    <edge source="Journal of Electronic Imaging" target="IEEE Transactions on Image Processing">
+      <data key="d0">3083</data>
+    </edge>
+    <edge source="Journal of Electronic Imaging" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2797</data>
+    </edge>
+    <edge source="Journal of Electronic Imaging" target="Pattern Recognition">
+      <data key="d0">1099</data>
+    </edge>
+    <edge source="Journal of Electronic Imaging" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">1094</data>
+    </edge>
+    <edge source="Computational Optimization and Applications" target="Mathematical Programming">
+      <data key="d0">3030</data>
+    </edge>
+    <edge source="Computational Optimization and Applications" target="Siam Journal on Optimization">
+      <data key="d0">1812</data>
+    </edge>
+    <edge source="IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing" target="IEEE Transactions on Geoscience and Remote Sensing">
+      <data key="d0">3000</data>
+    </edge>
+    <edge source="Transportation Science" target="Operations Research">
+      <data key="d0">1786</data>
+    </edge>
+    <edge source="Transportation Science" target="European Journal of Operational Research">
+      <data key="d0">971</data>
+    </edge>
+    <edge source="Computers &amp; Mathematics With Applications" target="Applied Mathematics and Computation">
+      <data key="d0">2954</data>
+    </edge>
+    <edge source="Computers &amp; Mathematics With Applications" target="Journal of Computational Physics">
+      <data key="d0">1425</data>
+    </edge>
+    <edge source="Computers &amp; Mathematics With Applications" target="SIAM Journal on Numerical Analysis">
+      <data key="d0">1038</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Computers &amp; Mathematics With Applications">
+      <data key="d0">2167</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Automatica">
+      <data key="d0">1843</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Applied Mathematics Letters">
+      <data key="d0">1494</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="European Journal of Operational Research">
+      <data key="d0">1426</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1401</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Journal of Computational and Applied Mathematics">
+      <data key="d0">1387</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Mathematical Programming">
+      <data key="d0">1247</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1168</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Journal of Computational Physics">
+      <data key="d0">1050</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Mathematical and Computer Modelling">
+      <data key="d0">971</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="SIAM Journal on Scientific Computing">
+      <data key="d0">969</data>
+    </edge>
+    <edge source="Applied Mathematics and Computation" target="Neurocomputing">
+      <data key="d0">951</data>
+    </edge>
+    <edge source="International Journal of Pattern Recognition and Artificial Intelligence" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2952</data>
+    </edge>
+    <edge source="International Journal of Pattern Recognition and Artificial Intelligence" target="Pattern Recognition">
+      <data key="d0">1813</data>
+    </edge>
+    <edge source="Information Processing and Management" target="Journal of the Association for Information Science and Technology">
+      <data key="d0">2937</data>
+    </edge>
+    <edge source="Information Processing and Management" target="Communications of The ACM">
+      <data key="d0">1067</data>
+    </edge>
+    <edge source="Electronic Notes in Theoretical Computer Science" target="Theoretical Computer Science">
+      <data key="d0">2927</data>
+    </edge>
+    <edge source="Electronic Notes in Theoretical Computer Science" target="Information &amp; Computation">
+      <data key="d0">1202</data>
+    </edge>
+    <edge source="Electronic Notes in Theoretical Computer Science" target="Lecture Notes in Computer Science">
+      <data key="d0">994</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2918</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Geoscience and Remote Sensing">
+      <data key="d0">2769</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Signal Processing">
+      <data key="d0">2533</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Biomedical Engineering">
+      <data key="d0">1650</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1407</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Instrumentation and Measurement">
+      <data key="d0">1334</data>
+    </edge>
+    <edge source="Sensors" target="Remote Sensing">
+      <data key="d0">1296</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Image Processing">
+      <data key="d0">1291</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1253</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Mobile Computing">
+      <data key="d0">1185</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Industrial Electronics">
+      <data key="d0">1179</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Communications Magazine">
+      <data key="d0">1179</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Communications Surveys and Tutorials">
+      <data key="d0">1139</data>
+    </edge>
+    <edge source="Sensors" target="Computer Networks">
+      <data key="d0">1132</data>
+    </edge>
+    <edge source="Sensors" target="Pattern Recognition">
+      <data key="d0">1055</data>
+    </edge>
+    <edge source="Sensors" target="Expert Systems With Applications">
+      <data key="d0">1008</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Transactions on Intelligent Transportation Systems">
+      <data key="d0">1002</data>
+    </edge>
+    <edge source="Sensors" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">947</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">2887</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Communications Magazine">
+      <data key="d0">2019</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Transactions on Communications">
+      <data key="d0">1786</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1731</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1661</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1585</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Transactions on Information Theory">
+      <data key="d0">1494</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Communications Surveys and Tutorials">
+      <data key="d0">1164</data>
+    </edge>
+    <edge source="IEEE Access" target="IEEE Communications Letters">
+      <data key="d0">1126</data>
+    </edge>
+    <edge source="Lecture Notes in Computer Science" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2841</data>
+    </edge>
+    <edge source="Lecture Notes in Computer Science" target="Communications of The ACM">
+      <data key="d0">2093</data>
+    </edge>
+    <edge source="Lecture Notes in Computer Science" target="Artificial Intelligence">
+      <data key="d0">1472</data>
+    </edge>
+    <edge source="Lecture Notes in Computer Science" target="Theoretical Computer Science">
+      <data key="d0">1240</data>
+    </edge>
+    <edge source="Lecture Notes in Computer Science" target="IEEE Transactions on Software Engineering">
+      <data key="d0">1100</data>
+    </edge>
+    <edge source="Lecture Notes in Computer Science" target="Journal of the ACM">
+      <data key="d0">1015</data>
+    </edge>
+    <edge source="European Journal of Information Systems" target="Management Information Systems Quarterly">
+      <data key="d0">2794</data>
+    </edge>
+    <edge source="European Journal of Information Systems" target="Information Systems Research">
+      <data key="d0">1271</data>
+    </edge>
+    <edge source="Journal of Parallel and Distributed Computing" target="IEEE Transactions on Computers">
+      <data key="d0">2790</data>
+    </edge>
+    <edge source="Journal of Parallel and Distributed Computing" target="IEEE Transactions on Parallel and Distributed Systems">
+      <data key="d0">2272</data>
+    </edge>
+    <edge source="Journal of Parallel and Distributed Computing" target="Communications of The ACM">
+      <data key="d0">983</data>
+    </edge>
+    <edge source="Neural Computing and Applications" target="IEEE Transactions on Neural Networks">
+      <data key="d0">2784</data>
+    </edge>
+    <edge source="Neural Computing and Applications" target="Neurocomputing">
+      <data key="d0">2178</data>
+    </edge>
+    <edge source="Neural Computing and Applications" target="Expert Systems With Applications">
+      <data key="d0">1604</data>
+    </edge>
+    <edge source="Neural Computing and Applications" target="Neural Networks">
+      <data key="d0">1220</data>
+    </edge>
+    <edge source="Neural Computing and Applications" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1201</data>
+    </edge>
+    <edge source="Neural Computing and Applications" target="Information Sciences">
+      <data key="d0">1101</data>
+    </edge>
+    <edge source="Neural Computing and Applications" target="Pattern Recognition">
+      <data key="d0">959</data>
+    </edge>
+    <edge source="Journal of Chemical Information and Modeling" target="Journal of Computational Chemistry">
+      <data key="d0">2735</data>
+    </edge>
+    <edge source="Journal of Chemical Information and Modeling" target="Journal of Chemical Information and Computer Sciences">
+      <data key="d0">2240</data>
+    </edge>
+    <edge source="Journal of Chemical Information and Modeling" target="Journal of Computer-aided Molecular Design">
+      <data key="d0">1654</data>
+    </edge>
+    <edge source="Journal of Chemical Information and Modeling" target="Nucleic Acids Research">
+      <data key="d0">1415</data>
+    </edge>
+    <edge source="Journal of Chemical Information and Modeling" target="Bioinformatics">
+      <data key="d0">977</data>
+    </edge>
+    <edge source="IEEE Transactions on Multimedia" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">2719</data>
+    </edge>
+    <edge source="IEEE Transactions on Multimedia" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2664</data>
+    </edge>
+    <edge source="IEEE Transactions on Multimedia" target="IEEE Transactions on Image Processing">
+      <data key="d0">2401</data>
+    </edge>
+    <edge source="IEEE Transactions on Multimedia" target="International Journal of Computer Vision">
+      <data key="d0">965</data>
+    </edge>
+    <edge source="Computers in Education" target="Computers in Human Behavior">
+      <data key="d0">2188</data>
+    </edge>
+    <edge source="Computers in Education" target="Journal of Computer Assisted Learning">
+      <data key="d0">1246</data>
+    </edge>
+    <edge source="Computers in Education" target="British Journal of Educational Technology">
+      <data key="d0">1173</data>
+    </edge>
+    <edge source="Computers in Education" target="Educational Technology &amp; Society">
+      <data key="d0">974</data>
+    </edge>
+    <edge source="Communications of The ACM" target="Journal of the ACM">
+      <data key="d0">957</data>
+    </edge>
+    <edge source="International Journal of Applied Earth Observation and Geoinformation" target="IEEE Transactions on Geoscience and Remote Sensing">
+      <data key="d0">2144</data>
+    </edge>
+    <edge source="International Journal of Applied Earth Observation and Geoinformation" target="Remote Sensing">
+      <data key="d0">1076</data>
+    </edge>
+    <edge source="IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences" target="IEEE Transactions on Information Theory">
+      <data key="d0">2624</data>
+    </edge>
+    <edge source="IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences" target="IEEE Transactions on Signal Processing">
+      <data key="d0">955</data>
+    </edge>
+    <edge source="Journal of Global Optimization" target="Mathematical Programming">
+      <data key="d0">2606</data>
+    </edge>
+    <edge source="Journal of Global Optimization" target="Siam Journal on Optimization">
+      <data key="d0">1037</data>
+    </edge>
+    <edge source="IEEE Transactions on Aerospace and Electronic Systems" target="IEEE Transactions on Signal Processing">
+      <data key="d0">2583</data>
+    </edge>
+    <edge source="Journal of Scientific Computing" target="Journal of Computational Physics">
+      <data key="d0">2557</data>
+    </edge>
+    <edge source="Journal of Scientific Computing" target="SIAM Journal on Numerical Analysis">
+      <data key="d0">1913</data>
+    </edge>
+    <edge source="Journal of Scientific Computing" target="SIAM Journal on Scientific Computing">
+      <data key="d0">1392</data>
+    </edge>
+    <edge source="Journal of Scientific Computing" target="Mathematics of Computation">
+      <data key="d0">1077</data>
+    </edge>
+    <edge source="SIAM Journal on Numerical Analysis" target="Mathematics of Computation">
+      <data key="d0">1018</data>
+    </edge>
+    <edge source="Graphs and Combinatorics" target="Discrete Mathematics">
+      <data key="d0">2531</data>
+    </edge>
+    <edge source="Graphs and Combinatorics" target="Journal of Combinatorial Theory">
+      <data key="d0">1482</data>
+    </edge>
+    <edge source="Graphs and Combinatorics" target="Journal of Graph Theory">
+      <data key="d0">1191</data>
+    </edge>
+    <edge source="Mathematics of Operations Research" target="Mathematical Programming">
+      <data key="d0">1971</data>
+    </edge>
+    <edge source="Mathematics of Operations Research" target="Operations Research">
+      <data key="d0">1057</data>
+    </edge>
+    <edge source="Information Systems Research" target="Management Information Systems Quarterly">
+      <data key="d0">2501</data>
+    </edge>
+    <edge source="Information Systems Research" target="Management Science">
+      <data key="d0">1124</data>
+    </edge>
+    <edge source="Journal of Biomedical Informatics" target="Journal of the American Medical Informatics Association">
+      <data key="d0">2494</data>
+    </edge>
+    <edge source="Journal of Biomedical Informatics" target="Bioinformatics">
+      <data key="d0">1261</data>
+    </edge>
+    <edge source="Journal of the American Medical Informatics Association" target="Journal of Biomedical Informatics">
+      <data key="d0">1203</data>
+    </edge>
+    <edge source="Journal of the American Medical Informatics Association" target="International Journal of Medical Informatics">
+      <data key="d0">1101</data>
+    </edge>
+    <edge source="International Journal of Medical Informatics" target="Journal of the American Medical Informatics Association">
+      <data key="d0">2458</data>
+    </edge>
+    <edge source="Journal of Computational and Applied Mathematics" target="Applied Mathematics and Computation">
+      <data key="d0">2448</data>
+    </edge>
+    <edge source="Journal of Computational and Applied Mathematics" target="SIAM Journal on Numerical Analysis">
+      <data key="d0">1322</data>
+    </edge>
+    <edge source="Journal of Computational and Applied Mathematics" target="SIAM Journal on Scientific Computing">
+      <data key="d0">1316</data>
+    </edge>
+    <edge source="Journal of Computational and Applied Mathematics" target="Journal of Computational Physics">
+      <data key="d0">1176</data>
+    </edge>
+    <edge source="Communications of The Ais" target="Management Information Systems Quarterly">
+      <data key="d0">2440</data>
+    </edge>
+    <edge source="Communications of The Ais" target="Information Systems Research">
+      <data key="d0">1101</data>
+    </edge>
+    <edge source="Brain" target="NeuroImage">
+      <data key="d0">2392</data>
+    </edge>
+    <edge source="European Journal of Combinatorics" target="Journal of Combinatorial Theory">
+      <data key="d0">2369</data>
+    </edge>
+    <edge source="European Journal of Combinatorics" target="Discrete Mathematics">
+      <data key="d0">1771</data>
+    </edge>
+    <edge source="Journal of Mathematical Imaging and Vision" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">2366</data>
+    </edge>
+    <edge source="Journal of Mathematical Imaging and Vision" target="IEEE Transactions on Image Processing">
+      <data key="d0">1540</data>
+    </edge>
+    <edge source="Journal of Mathematical Imaging and Vision" target="International Journal of Computer Vision">
+      <data key="d0">1314</data>
+    </edge>
+    <edge source="IEEE Transactions on Systems, Man, and Cybernetics" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1884</data>
+    </edge>
+    <edge source="IEEE Transactions on Systems, Man, and Cybernetics" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1794</data>
+    </edge>
+    <edge source="IEEE Transactions on Systems, Man, and Cybernetics" target="Automatica">
+      <data key="d0">1619</data>
+    </edge>
+    <edge source="IEEE Transactions on Systems, Man, and Cybernetics" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1527</data>
+    </edge>
+    <edge source="IEEE Transactions on Systems, Man, and Cybernetics" target="IEEE Transactions on Fuzzy Systems">
+      <data key="d0">1392</data>
+    </edge>
+    <edge source="IEEE Transactions on Systems, Man, and Cybernetics" target="IEEE Transactions on Evolutionary Computation">
+      <data key="d0">1289</data>
+    </edge>
+    <edge source="ACM Transactions on Graphics" target="Computer Graphics Forum">
+      <data key="d0">1034</data>
+    </edge>
+    <edge source="Proceedings of SPIE" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">2284</data>
+    </edge>
+    <edge source="Proceedings of SPIE" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1253</data>
+    </edge>
+    <edge source="Proceedings of SPIE" target="Medical Image Analysis">
+      <data key="d0">1049</data>
+    </edge>
+    <edge source="Proceedings of SPIE" target="IEEE Transactions on Image Processing">
+      <data key="d0">1018</data>
+    </edge>
+    <edge source="IEEE Transactions on Robotics" target="The International Journal of Robotics Research">
+      <data key="d0">2235</data>
+    </edge>
+    <edge source="The International Journal of Robotics Research" target="IEEE Transactions on Robotics">
+      <data key="d0">1192</data>
+    </edge>
+    <edge source="Empirical Software Engineering" target="IEEE Transactions on Software Engineering">
+      <data key="d0">2209</data>
+    </edge>
+    <edge source="IEEE Transactions on Biomedical Engineering" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">2197</data>
+    </edge>
+    <edge source="IEEE Transactions on Biomedical Engineering" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1012</data>
+    </edge>
+    <edge source="IEEE Transactions on Biomedical Engineering" target="NeuroImage">
+      <data key="d0">973</data>
+    </edge>
+    <edge source="SIAM Journal on Computing" target="Journal of the ACM">
+      <data key="d0">1172</data>
+    </edge>
+    <edge source="Journal of Documentation" target="Journal of the Association for Information Science and Technology">
+      <data key="d0">2113</data>
+    </edge>
+    <edge source="Journal of Documentation" target="Information Processing and Management">
+      <data key="d0">958</data>
+    </edge>
+    <edge source="Circuits Systems and Signal Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">2096</data>
+    </edge>
+    <edge source="Circuits Systems and Signal Processing" target="Automatica">
+      <data key="d0">1655</data>
+    </edge>
+    <edge source="Circuits Systems and Signal Processing" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1124</data>
+    </edge>
+    <edge source="Circuits Systems and Signal Processing" target="Signal Processing">
+      <data key="d0">1031</data>
+    </edge>
+    <edge source="Electronic Journal of Combinatorics" target="Journal of Combinatorial Theory">
+      <data key="d0">2081</data>
+    </edge>
+    <edge source="Electronic Journal of Combinatorics" target="Discrete Mathematics">
+      <data key="d0">1745</data>
+    </edge>
+    <edge source="Journal of Artificial Intelligence Research" target="Artificial Intelligence">
+      <data key="d0">2075</data>
+    </edge>
+    <edge source="Artificial Intelligence" target="Journal of Artificial Intelligence Research">
+      <data key="d0">1203</data>
+    </edge>
+    <edge source="Artificial Intelligence" target="Journal of the ACM">
+      <data key="d0">1110</data>
+    </edge>
+    <edge source="IEEE Transactions on Knowledge and Data Engineering" target="ACM Transactions on Database Systems">
+      <data key="d0">1781</data>
+    </edge>
+    <edge source="IEEE Transactions on Knowledge and Data Engineering" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1120</data>
+    </edge>
+    <edge source="IEEE Transactions on Knowledge and Data Engineering" target="Communications of The ACM">
+      <data key="d0">1091</data>
+    </edge>
+    <edge source="Speech Communication" target="IEEE Transactions on Speech and Audio Processing">
+      <data key="d0">1794</data>
+    </edge>
+    <edge source="Speech Communication" target="IEEE Transactions on Audio, Speech, and Language Processing">
+      <data key="d0">1384</data>
+    </edge>
+    <edge source="Annals of Pure and Applied Logic" target="Journal of Symbolic Logic">
+      <data key="d0">2037</data>
+    </edge>
+    <edge source="Journal of Symbolic Logic" target="Annals of Pure and Applied Logic">
+      <data key="d0">1505</data>
+    </edge>
+    <edge source="Journal of Computational Biology" target="Bioinformatics">
+      <data key="d0">2030</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems" target="IEEE Transactions on Circuits and Systems Ii-express Briefs">
+      <data key="d0">2029</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems" target="IEEE Journal of Solid-state Circuits">
+      <data key="d0">1698</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1464</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems" target="IEEE Transactions on Very Large Scale Integration Systems">
+      <data key="d0">1075</data>
+    </edge>
+    <edge source="IEEE Transactions on Circuits and Systems Ii-express Briefs" target="IEEE Transactions on Circuits and Systems">
+      <data key="d0">1782</data>
+    </edge>
+    <edge source="IEEE Communications Surveys and Tutorials" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">2022</data>
+    </edge>
+    <edge source="IEEE Communications Surveys and Tutorials" target="IEEE Communications Magazine">
+      <data key="d0">2022</data>
+    </edge>
+    <edge source="IEEE Communications Surveys and Tutorials" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1906</data>
+    </edge>
+    <edge source="IEEE Communications Surveys and Tutorials" target="IEEE Transactions on Information Theory">
+      <data key="d0">1378</data>
+    </edge>
+    <edge source="IEEE Communications Surveys and Tutorials" target="IEEE Transactions on Communications">
+      <data key="d0">1355</data>
+    </edge>
+    <edge source="IEEE Communications Surveys and Tutorials" target="IEEE Transactions on Vehicular Technology">
+      <data key="d0">1110</data>
+    </edge>
+    <edge source="IEEE Communications Surveys and Tutorials" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1009</data>
+    </edge>
+    <edge source="Computer-aided Design" target="Computer Aided Geometric Design">
+      <data key="d0">1963</data>
+    </edge>
+    <edge source="Computer-aided Design" target="ACM Transactions on Graphics">
+      <data key="d0">965</data>
+    </edge>
+    <edge source="Computer Aided Geometric Design" target="Computer-aided Design">
+      <data key="d0">1020</data>
+    </edge>
+    <edge source="International Journal of Information Management" target="Management Information Systems Quarterly">
+      <data key="d0">1957</data>
+    </edge>
+    <edge source="International Journal of Information Management" target="Information &amp; Management">
+      <data key="d0">1011</data>
+    </edge>
+    <edge source="Pattern Analysis and Applications" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1953</data>
+    </edge>
+    <edge source="Pattern Analysis and Applications" target="Pattern Recognition">
+      <data key="d0">1157</data>
+    </edge>
+    <edge source="Neural Processing Letters" target="IEEE Transactions on Neural Networks">
+      <data key="d0">1938</data>
+    </edge>
+    <edge source="Neural Processing Letters" target="Neurocomputing">
+      <data key="d0">1277</data>
+    </edge>
+    <edge source="Neural Processing Letters" target="Neural Networks">
+      <data key="d0">1065</data>
+    </edge>
+    <edge source="ACM Computing Surveys" target="Communications of The ACM">
+      <data key="d0">1932</data>
+    </edge>
+    <edge source="Reliability Engineering &amp; System Safety" target="IEEE Transactions on Reliability">
+      <data key="d0">1908</data>
+    </edge>
+    <edge source="Reliability Engineering &amp; System Safety" target="European Journal of Operational Research">
+      <data key="d0">983</data>
+    </edge>
+    <edge source="IEEE Transactions on Reliability" target="Reliability Engineering &amp; System Safety">
+      <data key="d0">1512</data>
+    </edge>
+    <edge source="International Journal of Approximate Reasoning" target="Information Sciences">
+      <data key="d0">1891</data>
+    </edge>
+    <edge source="International Journal of Approximate Reasoning" target="Fuzzy Sets and Systems">
+      <data key="d0">1534</data>
+    </edge>
+    <edge source="International Journal of Approximate Reasoning" target="Artificial Intelligence">
+      <data key="d0">1442</data>
+    </edge>
+    <edge source="Wireless Networks" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1875</data>
+    </edge>
+    <edge source="Wireless Networks" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1371</data>
+    </edge>
+    <edge source="Wireless Networks" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1209</data>
+    </edge>
+    <edge source="Wireless Networks" target="IEEE Transactions on Mobile Computing">
+      <data key="d0">1042</data>
+    </edge>
+    <edge source="Wireless Networks" target="IEEE Transactions on Communications">
+      <data key="d0">954</data>
+    </edge>
+    <edge source="Information Systems Journal" target="Management Information Systems Quarterly">
+      <data key="d0">1864</data>
+    </edge>
+    <edge source="IEICE Transactions on Communications" target="IEEE Transactions on Communications">
+      <data key="d0">1863</data>
+    </edge>
+    <edge source="IEICE Transactions on Communications" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1850</data>
+    </edge>
+    <edge source="IEICE Transactions on Communications" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1786</data>
+    </edge>
+    <edge source="IEICE Transactions on Communications" target="IEEE Transactions on Information Theory">
+      <data key="d0">1634</data>
+    </edge>
+    <edge source="IEICE Transactions on Communications" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1070</data>
+    </edge>
+    <edge source="IEEE Transactions on Mobile Computing" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1852</data>
+    </edge>
+    <edge source="IEEE Transactions on Mobile Computing" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1500</data>
+    </edge>
+    <edge source="IEEE Transactions on Mobile Computing" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1312</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Forensics and Security" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1832</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Forensics and Security" target="IEEE Transactions on Information Theory">
+      <data key="d0">1815</data>
+    </edge>
+    <edge source="IEEE Transactions on Information Forensics and Security" target="IEEE Transactions on Image Processing">
+      <data key="d0">1040</data>
+    </edge>
+    <edge source="Computerized Medical Imaging and Graphics" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">1818</data>
+    </edge>
+    <edge source="Signal, Image and Video Processing" target="IEEE Transactions on Image Processing">
+      <data key="d0">1782</data>
+    </edge>
+    <edge source="Signal, Image and Video Processing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1245</data>
+    </edge>
+    <edge source="Software - Practice and Experience" target="Communications of The ACM">
+      <data key="d0">1778</data>
+    </edge>
+    <edge source="Software - Practice and Experience" target="IEEE Transactions on Software Engineering">
+      <data key="d0">1169</data>
+    </edge>
+    <edge source="Manufacturing &amp; Service Operations Management" target="Operations Research">
+      <data key="d0">1754</data>
+    </edge>
+    <edge source="Manufacturing &amp; Service Operations Management" target="Management Science">
+      <data key="d0">1693</data>
+    </edge>
+    <edge source="Entropy" target="IEEE Transactions on Information Theory">
+      <data key="d0">1745</data>
+    </edge>
+    <edge source="Journal of Strategic Information Systems" target="Management Information Systems Quarterly">
+      <data key="d0">1739</data>
+    </edge>
+    <edge source="Robotics and Autonomous Systems" target="The International Journal of Robotics Research">
+      <data key="d0">1739</data>
+    </edge>
+    <edge source="Robotics and Autonomous Systems" target="IEEE Transactions on Robotics">
+      <data key="d0">1175</data>
+    </edge>
+    <edge source="Journal of the Association for Information Systems" target="Management Information Systems Quarterly">
+      <data key="d0">1725</data>
+    </edge>
+    <edge source="IEEE Journal of Solid-state Circuits" target="IEEE Transactions on Circuits and Systems">
+      <data key="d0">1034</data>
+    </edge>
+    <edge source="arXiv: Machine Learning" target="Journal of Machine Learning Research">
+      <data key="d0">1697</data>
+    </edge>
+    <edge source="International Journal of Computer Mathematics" target="Applied Mathematics and Computation">
+      <data key="d0">1691</data>
+    </edge>
+    <edge source="ACM Transactions on Design Automation of Electronic Systems" target="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems">
+      <data key="d0">1685</data>
+    </edge>
+    <edge source="Optimization Methods &amp; Software" target="Mathematical Programming">
+      <data key="d0">1681</data>
+    </edge>
+    <edge source="Optimization Methods &amp; Software" target="Siam Journal on Optimization">
+      <data key="d0">1280</data>
+    </edge>
+    <edge source="Machine Learning" target="Journal of Machine Learning Research">
+      <data key="d0">1266</data>
+    </edge>
+    <edge source="Journal of Computer-aided Molecular Design" target="Journal of Computational Chemistry">
+      <data key="d0">1665</data>
+    </edge>
+    <edge source="Journal of Computer-aided Molecular Design" target="Journal of Chemical Information and Modeling">
+      <data key="d0">1206</data>
+    </edge>
+    <edge source="Educational Technology &amp; Society" target="Computers in Education">
+      <data key="d0">1663</data>
+    </edge>
+    <edge source="Integration" target="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems">
+      <data key="d0">1661</data>
+    </edge>
+    <edge source="Integration" target="IEEE Transactions on Computers">
+      <data key="d0">990</data>
+    </edge>
+    <edge source="Finite Fields and Their Applications" target="IEEE Transactions on Information Theory">
+      <data key="d0">1660</data>
+    </edge>
+    <edge source="Journal of Information Technology" target="Management Information Systems Quarterly">
+      <data key="d0">1645</data>
+    </edge>
+    <edge source="Algorithmica" target="Journal of the ACM">
+      <data key="d0">1643</data>
+    </edge>
+    <edge source="Algorithmica" target="Theoretical Computer Science">
+      <data key="d0">1240</data>
+    </edge>
+    <edge source="Algorithmica" target="SIAM Journal on Computing">
+      <data key="d0">1139</data>
+    </edge>
+    <edge source="Algorithmica" target="Information Processing Letters">
+      <data key="d0">1122</data>
+    </edge>
+    <edge source="Journal of Applied Mathematics" target="Applied Mathematics and Computation">
+      <data key="d0">1642</data>
+    </edge>
+    <edge source="Applicable Algebra in Engineering, Communication and Computing" target="IEEE Transactions on Information Theory">
+      <data key="d0">1641</data>
+    </edge>
+    <edge source="IEEE Transactions on Consumer Electronics" target="IEEE Transactions on Circuits and Systems for Video Technology">
+      <data key="d0">1625</data>
+    </edge>
+    <edge source="Informs Journal on Computing" target="Operations Research">
+      <data key="d0">1211</data>
+    </edge>
+    <edge source="Biomedical Signal Processing and Control" target="IEEE Transactions on Biomedical Engineering">
+      <data key="d0">1598</data>
+    </edge>
+    <edge source="Operations Research Letters" target="Operations Research">
+      <data key="d0">1389</data>
+    </edge>
+    <edge source="Operations Research Letters" target="Mathematical Programming">
+      <data key="d0">1291</data>
+    </edge>
+    <edge source="Journal of Computational Neuroscience" target="Neural Computation">
+      <data key="d0">1584</data>
+    </edge>
+    <edge source="Games and Economic Behavior" target="Journal of Economic Theory">
+      <data key="d0">1582</data>
+    </edge>
+    <edge source="Journal of Bioinformatics and Computational Biology" target="Bioinformatics">
+      <data key="d0">1579</data>
+    </edge>
+    <edge source="Annals of Mathematics and Artificial Intelligence" target="Artificial Intelligence">
+      <data key="d0">1577</data>
+    </edge>
+    <edge source="IEEE Journal of Selected Topics in Signal Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1573</data>
+    </edge>
+    <edge source="IEEE Journal of Selected Topics in Signal Processing" target="IEEE Transactions on Information Theory">
+      <data key="d0">1111</data>
+    </edge>
+    <edge source="Fundamenta Informaticae" target="Theoretical Computer Science">
+      <data key="d0">1571</data>
+    </edge>
+    <edge source="The Journal of Supercomputing" target="IEEE Transactions on Parallel and Distributed Systems">
+      <data key="d0">1528</data>
+    </edge>
+    <edge source="The Journal of Supercomputing" target="IEEE Transactions on Computers">
+      <data key="d0">1206</data>
+    </edge>
+    <edge source="International Transactions in Operational Research" target="European Journal of Operational Research">
+      <data key="d0">1522</data>
+    </edge>
+    <edge source="Robotica" target="The International Journal of Robotics Research">
+      <data key="d0">1515</data>
+    </edge>
+    <edge source="Behaviour &amp; Information Technology" target="Management Information Systems Quarterly">
+      <data key="d0">1507</data>
+    </edge>
+    <edge source="Behaviour &amp; Information Technology" target="Computers in Human Behavior">
+      <data key="d0">947</data>
+    </edge>
+    <edge source="Applied Mathematics Letters" target="Applied Mathematics and Computation">
+      <data key="d0">1021</data>
+    </edge>
+    <edge source="arXiv: Systems and Control" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1484</data>
+    </edge>
+    <edge source="arXiv: Systems and Control" target="Automatica">
+      <data key="d0">1118</data>
+    </edge>
+    <edge source="IEICE Transactions on Information and Systems" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1482</data>
+    </edge>
+    <edge source="Siam Journal on Control and Optimization" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1254</data>
+    </edge>
+    <edge source="Computers &amp; Graphics" target="Computer Graphics Forum">
+      <data key="d0">1476</data>
+    </edge>
+    <edge source="Computers &amp; Graphics" target="IEEE Transactions on Visualization and Computer Graphics">
+      <data key="d0">1450</data>
+    </edge>
+    <edge source="Computers &amp; Graphics" target="ACM Transactions on Graphics">
+      <data key="d0">1113</data>
+    </edge>
+    <edge source="Computers &amp; Graphics" target="IEEE Computer Graphics and Applications">
+      <data key="d0">1031</data>
+    </edge>
+    <edge source="International Journal of Communication Systems" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1476</data>
+    </edge>
+    <edge source="International Journal of Communication Systems" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1394</data>
+    </edge>
+    <edge source="International Journal of Communication Systems" target="IEEE Transactions on Communications">
+      <data key="d0">1232</data>
+    </edge>
+    <edge source="European Journal of Control" target="Automatica">
+      <data key="d0">1446</data>
+    </edge>
+    <edge source="European Journal of Control" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1057</data>
+    </edge>
+    <edge source="Information Systems" target="ACM Transactions on Database Systems">
+      <data key="d0">1446</data>
+    </edge>
+    <edge source="IFAC Proceedings Volumes" target="Automatica">
+      <data key="d0">1427</data>
+    </edge>
+    <edge source="IFAC Proceedings Volumes" target="IEEE Transactions on Automatic Control">
+      <data key="d0">1290</data>
+    </edge>
+    <edge source="Journal of Optimization Theory and Applications" target="Mathematical Programming">
+      <data key="d0">1421</data>
+    </edge>
+    <edge source="Journal of Optimization Theory and Applications" target="Siam Journal on Optimization">
+      <data key="d0">1138</data>
+    </edge>
+    <edge source="The Visual Computer" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1419</data>
+    </edge>
+    <edge source="The Visual Computer" target="Computer Graphics Forum">
+      <data key="d0">1386</data>
+    </edge>
+    <edge source="The Visual Computer" target="IEEE Transactions on Visualization and Computer Graphics">
+      <data key="d0">1344</data>
+    </edge>
+    <edge source="The Visual Computer" target="ACM Transactions on Graphics">
+      <data key="d0">1127</data>
+    </edge>
+    <edge source="Journal of Information Science" target="Journal of the Association for Information Science and Technology">
+      <data key="d0">1412</data>
+    </edge>
+    <edge source="Networks" target="Operations Research">
+      <data key="d0">1054</data>
+    </edge>
+    <edge source="Theory of Computing Systems \/ Mathematical Systems Theory" target="Theoretical Computer Science">
+      <data key="d0">1317</data>
+    </edge>
+    <edge source="Theory of Computing Systems \/ Mathematical Systems Theory" target="Journal of the ACM">
+      <data key="d0">1000</data>
+    </edge>
+    <edge source="BMC Medical Informatics and Decision Making" target="Journal of the American Medical Informatics Association">
+      <data key="d0">1365</data>
+    </edge>
+    <edge source="arXiv: Artificial Intelligence" target="Artificial Intelligence">
+      <data key="d0">1365</data>
+    </edge>
+    <edge source="Computer Physics Communications" target="Journal of Computational Physics">
+      <data key="d0">1355</data>
+    </edge>
+    <edge source="Electronic Notes in Discrete Mathematics" target="Discrete Mathematics">
+      <data key="d0">1347</data>
+    </edge>
+    <edge source="Electronic Notes in Discrete Mathematics" target="Journal of Combinatorial Theory">
+      <data key="d0">1062</data>
+    </edge>
+    <edge source="Computational Biology and Chemistry" target="Nucleic Acids Research">
+      <data key="d0">1340</data>
+    </edge>
+    <edge source="Computational Biology and Chemistry" target="Bioinformatics">
+      <data key="d0">1307</data>
+    </edge>
+    <edge source="International Journal of Machine Learning and Cybernetics" target="Information Sciences">
+      <data key="d0">1324</data>
+    </edge>
+    <edge source="IEEE Wireless Communications Letters" target="IEEE Transactions on Wireless Communications">
+      <data key="d0">1321</data>
+    </edge>
+    <edge source="Interactive Learning Environments" target="Computers in Education">
+      <data key="d0">1313</data>
+    </edge>
+    <edge source="Journal of Electronic Testing" target="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems">
+      <data key="d0">1309</data>
+    </edge>
+    <edge source="Journal of Electronic Testing" target="IEEE Transactions on Computers">
+      <data key="d0">1146</data>
+    </edge>
+    <edge source="Frontiers in Computational Neuroscience" target="Neural Computation">
+      <data key="d0">1304</data>
+    </edge>
+    <edge source="Queueing Systems" target="Operations Research">
+      <data key="d0">1300</data>
+    </edge>
+    <edge source="Swarm and evolutionary computation" target="IEEE Transactions on Evolutionary Computation">
+      <data key="d0">1297</data>
+    </edge>
+    <edge source="IACR Cryptology ePrint Archive" target="Journal of Cryptology">
+      <data key="d0">1295</data>
+    </edge>
+    <edge source="IACR Cryptology ePrint Archive" target="IEEE Transactions on Information Theory">
+      <data key="d0">1105</data>
+    </edge>
+    <edge source="ACM Sigmis Database" target="Management Information Systems Quarterly">
+      <data key="d0">1282</data>
+    </edge>
+    <edge source="Engineering Applications of Artificial Intelligence" target="Expert Systems With Applications">
+      <data key="d0">1278</data>
+    </edge>
+    <edge source="Acta Informatica" target="Theoretical Computer Science">
+      <data key="d0">1003</data>
+    </edge>
+    <edge source="International Journal of Foundations of Computer Science" target="Theoretical Computer Science">
+      <data key="d0">1263</data>
+    </edge>
+    <edge source="Autonomous Robots" target="The International Journal of Robotics Research">
+      <data key="d0">1261</data>
+    </edge>
+    <edge source="Computer Methods and Programs in Biomedicine" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">1260</data>
+    </edge>
+    <edge source="International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems" target="Fuzzy Sets and Systems">
+      <data key="d0">1254</data>
+    </edge>
+    <edge source="Numerische Mathematik" target="SIAM Journal on Numerical Analysis">
+      <data key="d0">1248</data>
+    </edge>
+    <edge source="Numerische Mathematik" target="Mathematics of Computation">
+      <data key="d0">964</data>
+    </edge>
+    <edge source="ACM Transactions on Software Engineering and Methodology" target="IEEE Transactions on Software Engineering">
+      <data key="d0">1247</data>
+    </edge>
+    <edge source="Telecommunication Systems" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1246</data>
+    </edge>
+    <edge source="Telecommunication Systems" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1024</data>
+    </edge>
+    <edge source="Journal of Computer Assisted Learning" target="Computers in Education">
+      <data key="d0">963</data>
+    </edge>
+    <edge source="Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1163</data>
+    </edge>
+    <edge source="Mathematical Structures in Computer Science" target="Theoretical Computer Science">
+      <data key="d0">1210</data>
+    </edge>
+    <edge source="Mathematics of Computation" target="SIAM Journal on Numerical Analysis">
+      <data key="d0">1209</data>
+    </edge>
+    <edge source="Advances in Mathematics of Communications" target="IEEE Transactions on Information Theory">
+      <data key="d0">1206</data>
+    </edge>
+    <edge source="British Journal of Educational Technology" target="Computers in Education">
+      <data key="d0">1203</data>
+    </edge>
+    <edge source="International Journal of Human-computer Studies \/ International Journal of Man-machine Studies" target="Communications of The ACM">
+      <data key="d0">1163</data>
+    </edge>
+    <edge source="Science in China Series F: Information Sciences" target="IEEE Transactions on Information Theory">
+      <data key="d0">1187</data>
+    </edge>
+    <edge source="Science in China Series F: Information Sciences" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1033</data>
+    </edge>
+    <edge source="Frontiers in Neuroinformatics" target="NeuroImage">
+      <data key="d0">1187</data>
+    </edge>
+    <edge source="Computers in Biology and Medicine" target="IEEE Transactions on Medical Imaging">
+      <data key="d0">1184</data>
+    </edge>
+    <edge source="Computers in Biology and Medicine" target="IEEE Transactions on Biomedical Engineering">
+      <data key="d0">1119</data>
+    </edge>
+    <edge source="arXiv: Computation and Language" target="Computational Linguistics">
+      <data key="d0">1161</data>
+    </edge>
+    <edge source="European Transactions on Telecommunications" target="IEEE Transactions on Communications">
+      <data key="d0">1160</data>
+    </edge>
+    <edge source="Industrial Management and Data Systems" target="Management Information Systems Quarterly">
+      <data key="d0">1150</data>
+    </edge>
+    <edge source="Biological Cybernetics" target="Neural Computation">
+      <data key="d0">1148</data>
+    </edge>
+    <edge source="Journal of Knowledge Management" target="Management Information Systems Quarterly">
+      <data key="d0">1147</data>
+    </edge>
+    <edge source="ACM Sigsoft Software Engineering Notes" target="IEEE Transactions on Software Engineering">
+      <data key="d0">1145</data>
+    </edge>
+    <edge source="arXiv: Logic in Computer Science" target="Theoretical Computer Science">
+      <data key="d0">1139</data>
+    </edge>
+    <edge source="Computational Geometry: Theory and Applications" target="Discrete and Computational Geometry">
+      <data key="d0">1114</data>
+    </edge>
+    <edge source="IEEE Transactions on Intelligent Transportation Systems" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1113</data>
+    </edge>
+    <edge source="ISPRS international journal of geo-information" target="International Journal of Geographical Information Science">
+      <data key="d0">1111</data>
+    </edge>
+    <edge source="Future Generation Computer Systems" target="IEEE Transactions on Parallel and Distributed Systems">
+      <data key="d0">1102</data>
+    </edge>
+    <edge source="Organization Science" target="Management Science">
+      <data key="d0">1097</data>
+    </edge>
+    <edge source="International Journal of Software Engineering and Knowledge Engineering" target="IEEE Transactions on Software Engineering">
+      <data key="d0">1092</data>
+    </edge>
+    <edge source="Education and Information Technologies" target="Computers in Education">
+      <data key="d0">1086</data>
+    </edge>
+    <edge source="Archive for Mathematical Logic" target="Journal of Symbolic Logic">
+      <data key="d0">1086</data>
+    </edge>
+    <edge source="Numerical Linear Algebra With Applications" target="SIAM Journal on Scientific Computing">
+      <data key="d0">1083</data>
+    </edge>
+    <edge source="arXiv: Networking and Internet Architecture" target="IEEE ACM Transactions on Networking">
+      <data key="d0">1083</data>
+    </edge>
+    <edge source="arXiv: Networking and Internet Architecture" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1033</data>
+    </edge>
+    <edge source="Microprocessors and Microsystems" target="IEEE Transactions on Computers">
+      <data key="d0">1081</data>
+    </edge>
+    <edge source="Medical &amp; Biological Engineering &amp; Computing" target="IEEE Transactions on Biomedical Engineering">
+      <data key="d0">1077</data>
+    </edge>
+    <edge source="Computer Speech &amp; Language" target="Speech Communication">
+      <data key="d0">1077</data>
+    </edge>
+    <edge source="SIAM Journal on Discrete Mathematics" target="Journal of Combinatorial Theory">
+      <data key="d0">1076</data>
+    </edge>
+    <edge source="Journal of Network and Computer Applications" target="Computer Networks">
+      <data key="d0">1070</data>
+    </edge>
+    <edge source="Iet Signal Processing" target="IEEE Transactions on Signal Processing">
+      <data key="d0">1061</data>
+    </edge>
+    <edge source="arXiv: Data Structures and Algorithms" target="Journal of the ACM">
+      <data key="d0">1051</data>
+    </edge>
+    <edge source="Information Systems Frontiers" target="Management Information Systems Quarterly">
+      <data key="d0">1050</data>
+    </edge>
+    <edge source="Journal of Systems Architecture" target="IEEE Transactions on Computers">
+      <data key="d0">1047</data>
+    </edge>
+    <edge source="Iet Computer Vision" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1046</data>
+    </edge>
+    <edge source="ACM Transactions on Programming Languages and Systems" target="Communications of The ACM">
+      <data key="d0">1043</data>
+    </edge>
+    <edge source="Journal of Scheduling" target="European Journal of Operational Research">
+      <data key="d0">1042</data>
+    </edge>
+    <edge source="Journal of Intelligent Manufacturing" target="European Journal of Operational Research">
+      <data key="d0">1037</data>
+    </edge>
+    <edge source="Advanced Robotics" target="The International Journal of Robotics Research">
+      <data key="d0">1033</data>
+    </edge>
+    <edge source="Software Testing, Verification &amp; Reliability" target="IEEE Transactions on Software Engineering">
+      <data key="d0">1026</data>
+    </edge>
+    <edge source="Numerical Algorithms" target="Applied Mathematics and Computation">
+      <data key="d0">1026</data>
+    </edge>
+    <edge source="Photonic Network Communications" target="IEEE Journal on Selected Areas in Communications">
+      <data key="d0">1023</data>
+    </edge>
+    <edge source="Telematics and Informatics" target="Computers in Human Behavior">
+      <data key="d0">1020</data>
+    </edge>
+    <edge source="International Journal of Information Technology and Decision Making" target="European Journal of Operational Research">
+      <data key="d0">1018</data>
+    </edge>
+    <edge source="Siam Journal on Imaging Sciences" target="IEEE Transactions on Image Processing">
+      <data key="d0">1016</data>
+    </edge>
+    <edge source="Information Technology &amp; People" target="Management Information Systems Quarterly">
+      <data key="d0">1012</data>
+    </edge>
+    <edge source="International Journal on Document Analysis and Recognition" target="IEEE Transactions on Pattern Analysis and Machine Intelligence">
+      <data key="d0">1005</data>
+    </edge>
+    <edge source="Mathematical Logic Quarterly" target="Journal of Symbolic Logic">
+      <data key="d0">999</data>
+    </edge>
+    <edge source="Wirtschaftsinformatik und Angewandte Informatik" target="Management Information Systems Quarterly">
+      <data key="d0">990</data>
+    </edge>
+    <edge source="Transactions in Gis" target="International Journal of Geographical Information Science">
+      <data key="d0">989</data>
+    </edge>
+    <edge source="Neuroinformatics" target="NeuroImage">
+      <data key="d0">988</data>
+    </edge>
+    <edge source="Journal of Software" target="Journal of Computers">
+      <data key="d0">982</data>
+    </edge>
+    <edge source="Theoretical Informatics and Applications" target="Theoretical Computer Science">
+      <data key="d0">978</data>
+    </edge>
+    <edge source="arXiv: Software Engineering" target="IEEE Transactions on Software Engineering">
+      <data key="d0">974</data>
+    </edge>
+    <edge source="Iet Image Processing" target="IEEE Transactions on Image Processing">
+      <data key="d0">969</data>
+    </edge>
+    <edge source="Asia-Pacific Journal of Operational Research" target="European Journal of Operational Research">
+      <data key="d0">965</data>
+    </edge>
+    <edge source="Computers in Industry" target="Computer-aided Design">
+      <data key="d0">950</data>
+    </edge>
+    <edge source="Combinatorics, Probability &amp; Computing" target="Journal of Combinatorial Theory">
+      <data key="d0">949</data>
+    </edge>
+  </graph>
+</graphml>
